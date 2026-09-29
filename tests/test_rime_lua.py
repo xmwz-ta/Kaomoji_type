@@ -29,6 +29,18 @@ def test_offline_immediate_six_and_no_disk(lua_env):
     assert result[4].text.startswith('终于成功了 ')
     assert not list(directory.iterdir())
 
+def test_prefix_candidates_preserve_typed_chinese(lua_env):
+    lua, mod, env, ctx, _ = lua_env
+    candidates = source(lua, ('咖', '卡', '喀', '咔'))
+    result = lua.globals().run_filter(mod, env, candidates)
+    assert result[4].text.startswith('咖 ')
+    assert '联想：咖啡' in result[4].comment
+    ctx.selected, ctx.committed_text = candidates[1], '咖'
+    mod.processor.func(lua.globals().make_key('F8'), env)
+    expanded = lua.globals().run_filter(mod, env, candidates)
+    assert expanded[1].text.startswith('咖 ')
+    assert '咖啡' in expanded[1].comment
+
 def test_selected_homophone_and_edit_reset(lua_env):
     lua,mod,env,ctx,_ = lua_env
     candidates = source(lua,('苦','哭','酷','库'))

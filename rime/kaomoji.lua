@@ -89,7 +89,8 @@ function M.filter.func(input, env)
     inserted = true
     for _, row in ipairs(result) do
       local text = st.append and (source.text .. " " .. row.text) or row.text
-      local candidate = Candidate("kaomoji", source.start, source._end, text, "颜文字 · " .. source.text)
+      local comment = row.completion and row.completion ~= "" and ("联想：" .. row.completion) or ("颜文字 · " .. source.text)
+      local candidate = Candidate("kaomoji", source.start, source._end, text, comment)
       candidate.preedit = source.preedit
       yield(candidate)
     end

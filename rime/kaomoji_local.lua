@@ -52,6 +52,25 @@ function M.analyze(text)
     end
     if matched then topics[topic.id] = true end
   end
+  local completions, strongest = {}, 0
+  for _, value in pairs(scores) do strongest = math.max(strongest, value) end
+  if not next(topics) and strongest < .6 then
+    local count = utf8.len(text) or 0
+    for length = math.min(12,count),1,-1 do
+      do
+        local start = utf8.offset(text,count-length+1)
+        local records = (data.prefixes or {})[text:sub(start)]
+        if records and not negated(text:sub(1,start-1)) then
+          for _, record in ipairs(records) do
+            completions[#completions+1] = record.phrase
+            if record.kind == "topic" then topics[record.id] = true
+            else for emotion,value in pairs(record.emotions) do scores[emotion] = math.max(scores[emotion] or 0,value*.75) end end
+          end
+          break
+        end
+      end
+    end
+  end
   if contains(text, "?") then scores.confused = math.max(scores.confused or 0, contains(text,"??") and .9 or .4) end
   if contains(text, "呵呵") then scores.sarcastic = .92; caps.happy = .2 end
   if contains(text, "救命") then
@@ -65,7 +84,7 @@ function M.analyze(text)
   local maximum = 0
   for _, value in pairs(scores) do maximum = math.max(maximum, value) end
   if maximum < .18 then scores.neutral = .75 end
-  return {emotions=scores, topics=topics, tags=tags}
+  return {emotions=scores, topics=topics, tags=tags, completions=completions}
 end
 function M.recommend(text, limit)
   limit = math.max(1, math.min(64, limit or 6))
@@ -77,7 +96,8 @@ function M.recommend(text, limit)
     for _, label in ipairs(entry.emotions) do emotion = math.max(emotion, analysis.emotions[label] or 0) end
     for _, tag in ipairs(entry.tags) do if analysis.tags[tag] then tags = tags + 1 end end
     if (topical and overlap > 0) or (not topical and #(entry.topics or {}) == 0 and emotion >= .25) then
-      pool[#pool+1] = {text=entry.text, family=entry.family, score=overlap + emotion*.8 + tags*.04, index=index}
+      pool[#pool+1] = {text=entry.text, family=entry.family, score=overlap + emotion*.8 + tags*.04, index=index,
+        completion=table.concat(analysis.completions," / ")}
     end
   end
   table.sort(pool, function(a,b) if a.score == b.score then return a.index < b.index end return a.score > b.score end)

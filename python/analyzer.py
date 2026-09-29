@@ -20,6 +20,7 @@ class Analyzer:
     def __init__(self, rules_path: Path = ROOT / "data" / "rules.json") -> None:
         config = json.loads(rules_path.read_text(encoding="utf-8"))
         self.topics = config.get("topics", [])
+        self.prefixes = config.get("prefixes", {})
         self.rules: list[tuple[dict, re.Pattern]] = []
         for rule in config["rules"]:
             if not set(rule["emotions"]) <= EMOTIONS:
@@ -76,6 +77,21 @@ class Analyzer:
             exact = current.strip(" 。！？，.!?,") in topic.get("exact", [])
             if exact or any(not (topic["kind"] == "action" and NEGATION.search(current[:pos][-6:])) for pos in matches):
                 topics.append(topic["id"])
+        # Only unfinished trailing Chinese text can trigger completion. Full
+        # matches win; punctuation ends completion. Single-character prefixes
+        # are curated by the builder instead of guessing from arbitrary words.
+        if not topics and max(scores.values(), default=0) < .6:
+            for length in range(min(12, len(current)), 0, -1):
+                records = self.prefixes.get(current[-length:], [])
+                if records and not NEGATION.search(current[:-length]):
+                    for record in records:
+                        evidence.append("prefix:" + record["phrase"])
+                        if record["kind"] == "topic":
+                            topics.append(record["id"])
+                        else:
+                            for emotion, value in record["emotions"].items():
+                                scores[emotion] = max(scores.get(emotion, 0), value * .75)
+                    break
         # Internet hyperbole must be resolved from the entire current utterance.
         if "救命" in current:
             danger = bool(re.search(r"地震|着火|火灾|追杀|溺水|危险|有人跟踪|喘不过气|害怕", current + prior))

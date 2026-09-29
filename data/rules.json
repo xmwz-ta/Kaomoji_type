@@ -2943,5 +2943,9525 @@
       ],
       "exact": []
     }
-  ]
+  ],
+  "prefixes": {
+    "抱": [
+      {
+        "kind": "topic",
+        "id": "hug",
+        "phrase": "抱抱",
+        "emotions": {}
+      }
+    ],
+    "抱一": [
+      {
+        "kind": "topic",
+        "id": "hug",
+        "phrase": "抱一下",
+        "emotions": {}
+      }
+    ],
+    "给你": [
+      {
+        "kind": "topic",
+        "id": "hug",
+        "phrase": "给你抱抱",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "bow",
+        "phrase": "给你磕一个",
+        "emotions": {}
+      }
+    ],
+    "给你抱": [
+      {
+        "kind": "topic",
+        "id": "hug",
+        "phrase": "给你抱抱",
+        "emotions": {}
+      }
+    ],
+    "贴一": [
+      {
+        "kind": "topic",
+        "id": "hug",
+        "phrase": "贴一下",
+        "emotions": {}
+      }
+    ],
+    "亲": [
+      {
+        "kind": "topic",
+        "id": "kiss",
+        "phrase": "亲亲",
+        "emotions": {}
+      }
+    ],
+    "亲一": [
+      {
+        "kind": "topic",
+        "id": "kiss",
+        "phrase": "亲一个",
+        "emotions": {}
+      }
+    ],
+    "吻": [
+      {
+        "kind": "topic",
+        "id": "kiss",
+        "phrase": "吻你",
+        "emotions": {}
+      }
+    ],
+    "啵一": [
+      {
+        "kind": "topic",
+        "id": "kiss",
+        "phrase": "啵一个",
+        "emotions": {}
+      }
+    ],
+    "小心": [
+      {
+        "kind": "topic",
+        "id": "heart",
+        "phrase": "小心心",
+        "emotions": {}
+      }
+    ],
+    "喜欢": [
+      {
+        "kind": "topic",
+        "id": "heart",
+        "phrase": "喜欢你",
+        "emotions": {}
+      }
+    ],
+    "我爱": [
+      {
+        "kind": "topic",
+        "id": "heart",
+        "phrase": "我爱你",
+        "emotions": {}
+      }
+    ],
+    "爱你": [
+      {
+        "kind": "topic",
+        "id": "heart",
+        "phrase": "爱你哟",
+        "emotions": {}
+      }
+    ],
+    "挥挥": [
+      {
+        "kind": "topic",
+        "id": "wave",
+        "phrase": "挥挥手",
+        "emotions": {}
+      }
+    ],
+    "打招": [
+      {
+        "kind": "topic",
+        "id": "wave",
+        "phrase": "打招呼",
+        "emotions": {}
+      }
+    ],
+    "挥一": [
+      {
+        "kind": "topic",
+        "id": "wave",
+        "phrase": "挥一挥",
+        "emotions": {}
+      }
+    ],
+    "摆摆": [
+      {
+        "kind": "topic",
+        "id": "wave",
+        "phrase": "摆摆手",
+        "emotions": {}
+      }
+    ],
+    "拍拍": [
+      {
+        "kind": "topic",
+        "id": "clap",
+        "phrase": "拍拍手",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "pat",
+        "phrase": "拍拍头",
+        "emotions": {}
+      }
+    ],
+    "呱唧": [
+      {
+        "kind": "topic",
+        "id": "clap",
+        "phrase": "呱唧呱唧",
+        "emotions": {}
+      }
+    ],
+    "呱唧呱": [
+      {
+        "kind": "topic",
+        "id": "clap",
+        "phrase": "呱唧呱唧",
+        "emotions": {}
+      }
+    ],
+    "啪啪": [
+      {
+        "kind": "topic",
+        "id": "clap",
+        "phrase": "啪啪鼓掌",
+        "emotions": {}
+      }
+    ],
+    "啪啪鼓": [
+      {
+        "kind": "topic",
+        "id": "clap",
+        "phrase": "啪啪鼓掌",
+        "emotions": {}
+      }
+    ],
+    "跳起": [
+      {
+        "kind": "topic",
+        "id": "dance",
+        "phrase": "跳起来",
+        "emotions": {}
+      }
+    ],
+    "扭一": [
+      {
+        "kind": "topic",
+        "id": "dance",
+        "phrase": "扭一扭",
+        "emotions": {}
+      }
+    ],
+    "扭起": [
+      {
+        "kind": "topic",
+        "id": "dance",
+        "phrase": "扭起来",
+        "emotions": {}
+      }
+    ],
+    "摇起": [
+      {
+        "kind": "topic",
+        "id": "dance",
+        "phrase": "摇起来",
+        "emotions": {}
+      }
+    ],
+    "载歌": [
+      {
+        "kind": "topic",
+        "id": "dance",
+        "phrase": "载歌载舞",
+        "emotions": {}
+      }
+    ],
+    "载歌载": [
+      {
+        "kind": "topic",
+        "id": "dance",
+        "phrase": "载歌载舞",
+        "emotions": {}
+      }
+    ],
+    "追不": [
+      {
+        "kind": "topic",
+        "id": "run",
+        "phrase": "追不上",
+        "emotions": {}
+      }
+    ],
+    "溜之": [
+      {
+        "kind": "topic",
+        "id": "run",
+        "phrase": "溜之大吉",
+        "emotions": {}
+      }
+    ],
+    "溜之大": [
+      {
+        "kind": "topic",
+        "id": "run",
+        "phrase": "溜之大吉",
+        "emotions": {}
+      }
+    ],
+    "睡": [
+      {
+        "kind": "topic",
+        "id": "sleep",
+        "phrase": "睡觉",
+        "emotions": {}
+      }
+    ],
+    "睡一": [
+      {
+        "kind": "topic",
+        "id": "sleep",
+        "phrase": "睡一会",
+        "emotions": {}
+      }
+    ],
+    "睡大": [
+      {
+        "kind": "topic",
+        "id": "sleep",
+        "phrase": "睡大觉",
+        "emotions": {}
+      }
+    ],
+    "晚": [
+      {
+        "kind": "topic",
+        "id": "sleep",
+        "phrase": "晚安",
+        "emotions": {}
+      }
+    ],
+    "打瞌": [
+      {
+        "kind": "topic",
+        "id": "sleep",
+        "phrase": "打瞌睡",
+        "emotions": {}
+      }
+    ],
+    "呼呼": [
+      {
+        "kind": "topic",
+        "id": "sleep",
+        "phrase": "呼呼大睡",
+        "emotions": {}
+      }
+    ],
+    "呼呼大": [
+      {
+        "kind": "topic",
+        "id": "sleep",
+        "phrase": "呼呼大睡",
+        "emotions": {}
+      }
+    ],
+    "吃": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "吃饭",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "peek",
+        "phrase": "吃瓜",
+        "emotions": {}
+      }
+    ],
+    "吃东": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "吃东西",
+        "emotions": {}
+      }
+    ],
+    "饿": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "饿了",
+        "emotions": {}
+      }
+    ],
+    "饿死": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "饿死了",
+        "emotions": {}
+      }
+    ],
+    "肚子": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "肚子饿",
+        "emotions": {}
+      }
+    ],
+    "吃一": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "吃一口",
+        "emotions": {}
+      }
+    ],
+    "好好": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "好好吃",
+        "emotions": {}
+      }
+    ],
+    "吃饱": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "吃饱了",
+        "emotions": {}
+      }
+    ],
+    "吃撑": [
+      {
+        "kind": "topic",
+        "id": "eat",
+        "phrase": "吃撑了",
+        "emotions": {}
+      }
+    ],
+    "喝一": [
+      {
+        "kind": "topic",
+        "id": "drink",
+        "phrase": "喝一口",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "cheers",
+        "phrase": "喝一杯",
+        "emotions": {}
+      }
+    ],
+    "渴死": [
+      {
+        "kind": "topic",
+        "id": "drink",
+        "phrase": "渴死了",
+        "emotions": {}
+      }
+    ],
+    "多喝": [
+      {
+        "kind": "topic",
+        "id": "drink",
+        "phrase": "多喝水",
+        "emotions": {}
+      }
+    ],
+    "喝饮": [
+      {
+        "kind": "topic",
+        "id": "drink",
+        "phrase": "喝饮料",
+        "emotions": {}
+      }
+    ],
+    "来杯": [
+      {
+        "kind": "topic",
+        "id": "drink",
+        "phrase": "来杯水",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "tea",
+        "phrase": "来杯茶",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "来杯美式",
+        "emotions": {}
+      }
+    ],
+    "茶": [
+      {
+        "kind": "topic",
+        "id": "tea",
+        "phrase": "茶杯",
+        "emotions": {}
+      }
+    ],
+    "咖": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "咖啡",
+        "emotions": {}
+      }
+    ],
+    "美式": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "美式咖啡",
+        "emotions": {}
+      }
+    ],
+    "美式咖": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "美式咖啡",
+        "emotions": {}
+      }
+    ],
+    "卡布": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "卡布奇诺",
+        "emotions": {}
+      }
+    ],
+    "卡布奇": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "卡布奇诺",
+        "emotions": {}
+      }
+    ],
+    "续命": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "续命咖啡",
+        "emotions": {}
+      }
+    ],
+    "续命咖": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "续命咖啡",
+        "emotions": {}
+      }
+    ],
+    "来杯美": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "来杯美式",
+        "emotions": {}
+      }
+    ],
+    "喝美": [
+      {
+        "kind": "topic",
+        "id": "coffee",
+        "phrase": "喝美式",
+        "emotions": {}
+      }
+    ],
+    "蛋": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "蛋糕",
+        "emotions": {}
+      }
+    ],
+    "生日": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "生日快乐",
+        "emotions": {}
+      }
+    ],
+    "生日快": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "生日快乐",
+        "emotions": {}
+      }
+    ],
+    "过生": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "过生日",
+        "emotions": {}
+      }
+    ],
+    "切蛋": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "切蛋糕",
+        "emotions": {}
+      }
+    ],
+    "小蛋": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "小蛋糕",
+        "emotions": {}
+      }
+    ],
+    "生日蛋": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "生日蛋糕",
+        "emotions": {}
+      }
+    ],
+    "生日祝": [
+      {
+        "kind": "topic",
+        "id": "cake",
+        "phrase": "生日祝福",
+        "emotions": {}
+      }
+    ],
+    "花": [
+      {
+        "kind": "topic",
+        "id": "flower",
+        "phrase": "花花",
+        "emotions": {}
+      }
+    ],
+    "小红": [
+      {
+        "kind": "topic",
+        "id": "flower",
+        "phrase": "小红花",
+        "emotions": {}
+      }
+    ],
+    "一束": [
+      {
+        "kind": "topic",
+        "id": "flower",
+        "phrase": "一束花",
+        "emotions": {}
+      }
+    ],
+    "小礼": [
+      {
+        "kind": "topic",
+        "id": "gift",
+        "phrase": "小礼物",
+        "emotions": {}
+      }
+    ],
+    "送你": [
+      {
+        "kind": "topic",
+        "id": "gift",
+        "phrase": "送你一个",
+        "emotions": {}
+      }
+    ],
+    "送你一": [
+      {
+        "kind": "topic",
+        "id": "gift",
+        "phrase": "送你一个",
+        "emotions": {}
+      }
+    ],
+    "送你礼": [
+      {
+        "kind": "topic",
+        "id": "gift",
+        "phrase": "送你礼物",
+        "emotions": {}
+      }
+    ],
+    "拆礼": [
+      {
+        "kind": "topic",
+        "id": "gift",
+        "phrase": "拆礼物",
+        "emotions": {}
+      }
+    ],
+    "惊喜": [
+      {
+        "kind": "topic",
+        "id": "gift",
+        "phrase": "惊喜礼盒",
+        "emotions": {}
+      }
+    ],
+    "惊喜礼": [
+      {
+        "kind": "topic",
+        "id": "gift",
+        "phrase": "惊喜礼盒",
+        "emotions": {}
+      }
+    ],
+    "猫": [
+      {
+        "kind": "topic",
+        "id": "cat",
+        "phrase": "猫咪",
+        "emotions": {}
+      }
+    ],
+    "喵星": [
+      {
+        "kind": "topic",
+        "id": "cat",
+        "phrase": "喵星人",
+        "emotions": {}
+      }
+    ],
+    "狗": [
+      {
+        "kind": "topic",
+        "id": "dog",
+        "phrase": "狗狗",
+        "emotions": {}
+      }
+    ],
+    "汪星": [
+      {
+        "kind": "topic",
+        "id": "dog",
+        "phrase": "汪星人",
+        "emotions": {}
+      }
+    ],
+    "兔": [
+      {
+        "kind": "topic",
+        "id": "rabbit",
+        "phrase": "兔子",
+        "emotions": {}
+      }
+    ],
+    "兔耳": [
+      {
+        "kind": "topic",
+        "id": "rabbit",
+        "phrase": "兔耳朵",
+        "emotions": {}
+      }
+    ],
+    "小白": [
+      {
+        "kind": "topic",
+        "id": "rabbit",
+        "phrase": "小白兔",
+        "emotions": {}
+      }
+    ],
+    "熊": [
+      {
+        "kind": "topic",
+        "id": "bear",
+        "phrase": "熊熊",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "panda",
+        "phrase": "熊猫",
+        "emotions": {}
+      }
+    ],
+    "泰迪": [
+      {
+        "kind": "topic",
+        "id": "bear",
+        "phrase": "泰迪熊",
+        "emotions": {}
+      }
+    ],
+    "北极": [
+      {
+        "kind": "topic",
+        "id": "bear",
+        "phrase": "北极熊",
+        "emotions": {}
+      }
+    ],
+    "大熊": [
+      {
+        "kind": "topic",
+        "id": "panda",
+        "phrase": "大熊猫",
+        "emotions": {}
+      }
+    ],
+    "熊猫": [
+      {
+        "kind": "topic",
+        "id": "panda",
+        "phrase": "熊猫宝宝",
+        "emotions": {}
+      }
+    ],
+    "熊猫宝": [
+      {
+        "kind": "topic",
+        "id": "panda",
+        "phrase": "熊猫宝宝",
+        "emotions": {}
+      }
+    ],
+    "猪鼻": [
+      {
+        "kind": "topic",
+        "id": "pig",
+        "phrase": "猪鼻子",
+        "emotions": {}
+      }
+    ],
+    "小鸽": [
+      {
+        "kind": "topic",
+        "id": "bird",
+        "phrase": "小鸽子",
+        "emotions": {}
+      }
+    ],
+    "写作": [
+      {
+        "kind": "topic",
+        "id": "study",
+        "phrase": "写作业",
+        "emotions": {}
+      }
+    ],
+    "做作": [
+      {
+        "kind": "topic",
+        "id": "study",
+        "phrase": "做作业",
+        "emotions": {}
+      }
+    ],
+    "写论": [
+      {
+        "kind": "topic",
+        "id": "study",
+        "phrase": "写论文",
+        "emotions": {}
+      }
+    ],
+    "记笔": [
+      {
+        "kind": "topic",
+        "id": "study",
+        "phrase": "记笔记",
+        "emotions": {}
+      }
+    ],
+    "码代": [
+      {
+        "kind": "topic",
+        "id": "work",
+        "phrase": "码代码",
+        "emotions": {}
+      }
+    ],
+    "写代": [
+      {
+        "kind": "topic",
+        "id": "work",
+        "phrase": "写代码",
+        "emotions": {}
+      }
+    ],
+    "敲代": [
+      {
+        "kind": "topic",
+        "id": "work",
+        "phrase": "敲代码",
+        "emotions": {}
+      }
+    ],
+    "敲键": [
+      {
+        "kind": "topic",
+        "id": "work",
+        "phrase": "敲键盘",
+        "emotions": {}
+      }
+    ],
+    "打游": [
+      {
+        "kind": "topic",
+        "id": "game",
+        "phrase": "打游戏",
+        "emotions": {}
+      }
+    ],
+    "玩游": [
+      {
+        "kind": "topic",
+        "id": "game",
+        "phrase": "玩游戏",
+        "emotions": {}
+      }
+    ],
+    "打排": [
+      {
+        "kind": "topic",
+        "id": "game",
+        "phrase": "打排位",
+        "emotions": {}
+      }
+    ],
+    "游戏": [
+      {
+        "kind": "topic",
+        "id": "game",
+        "phrase": "游戏机",
+        "emotions": {}
+      }
+    ],
+    "开一": [
+      {
+        "kind": "topic",
+        "id": "game",
+        "phrase": "开一把",
+        "emotions": {}
+      }
+    ],
+    "来一": [
+      {
+        "kind": "topic",
+        "id": "game",
+        "phrase": "来一局",
+        "emotions": {}
+      }
+    ],
+    "弹吉": [
+      {
+        "kind": "topic",
+        "id": "music",
+        "phrase": "弹吉他",
+        "emotions": {}
+      }
+    ],
+    "单曲": [
+      {
+        "kind": "topic",
+        "id": "music",
+        "phrase": "单曲循环",
+        "emotions": {}
+      }
+    ],
+    "单曲循": [
+      {
+        "kind": "topic",
+        "id": "music",
+        "phrase": "单曲循环",
+        "emotions": {}
+      }
+    ],
+    "唱一": [
+      {
+        "kind": "topic",
+        "id": "music",
+        "phrase": "唱一首",
+        "emotions": {}
+      }
+    ],
+    "探个": [
+      {
+        "kind": "topic",
+        "id": "peek",
+        "phrase": "探个头",
+        "emotions": {}
+      }
+    ],
+    "偷偷": [
+      {
+        "kind": "topic",
+        "id": "peek",
+        "phrase": "偷偷看",
+        "emotions": {}
+      }
+    ],
+    "暗中": [
+      {
+        "kind": "topic",
+        "id": "peek",
+        "phrase": "暗中观察",
+        "emotions": {}
+      }
+    ],
+    "暗中观": [
+      {
+        "kind": "topic",
+        "id": "peek",
+        "phrase": "暗中观察",
+        "emotions": {}
+      }
+    ],
+    "看热": [
+      {
+        "kind": "topic",
+        "id": "peek",
+        "phrase": "看热闹",
+        "emotions": {}
+      }
+    ],
+    "眨眨": [
+      {
+        "kind": "topic",
+        "id": "wink",
+        "phrase": "眨眨眼",
+        "emotions": {}
+      }
+    ],
+    "抛媚": [
+      {
+        "kind": "topic",
+        "id": "wink",
+        "phrase": "抛媚眼",
+        "emotions": {}
+      }
+    ],
+    "电你": [
+      {
+        "kind": "topic",
+        "id": "wink",
+        "phrase": "电你一下",
+        "emotions": {}
+      }
+    ],
+    "电你一": [
+      {
+        "kind": "topic",
+        "id": "wink",
+        "phrase": "电你一下",
+        "emotions": {}
+      }
+    ],
+    "摸摸": [
+      {
+        "kind": "topic",
+        "id": "pat",
+        "phrase": "摸摸头",
+        "emotions": {}
+      }
+    ],
+    "揉揉": [
+      {
+        "kind": "topic",
+        "id": "pat",
+        "phrase": "揉揉头",
+        "emotions": {}
+      }
+    ],
+    "摸一": [
+      {
+        "kind": "topic",
+        "id": "pat",
+        "phrase": "摸一下",
+        "emotions": {}
+      }
+    ],
+    "土下": [
+      {
+        "kind": "topic",
+        "id": "bow",
+        "phrase": "土下座",
+        "emotions": {}
+      }
+    ],
+    "拜一": [
+      {
+        "kind": "topic",
+        "id": "bow",
+        "phrase": "拜一拜",
+        "emotions": {}
+      }
+    ],
+    "给你磕": [
+      {
+        "kind": "topic",
+        "id": "bow",
+        "phrase": "给你磕一个",
+        "emotions": {}
+      }
+    ],
+    "给你磕一": [
+      {
+        "kind": "topic",
+        "id": "bow",
+        "phrase": "给你磕一个",
+        "emotions": {}
+      }
+    ],
+    "打一": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "打一架",
+        "emotions": {}
+      }
+    ],
+    "掀桌": [
+      {
+        "kind": "topic",
+        "id": "tableflip",
+        "phrase": "掀桌子",
+        "emotions": {}
+      }
+    ],
+    "砸桌": [
+      {
+        "kind": "topic",
+        "id": "tableflip",
+        "phrase": "砸桌子",
+        "emotions": {}
+      }
+    ],
+    "摔桌": [
+      {
+        "kind": "topic",
+        "id": "tableflip",
+        "phrase": "摔桌子",
+        "emotions": {}
+      }
+    ],
+    "把桌": [
+      {
+        "kind": "topic",
+        "id": "tableflip",
+        "phrase": "把桌子掀了",
+        "emotions": {}
+      }
+    ],
+    "把桌子": [
+      {
+        "kind": "topic",
+        "id": "tableflip",
+        "phrase": "把桌子掀了",
+        "emotions": {}
+      }
+    ],
+    "把桌子掀": [
+      {
+        "kind": "topic",
+        "id": "tableflip",
+        "phrase": "把桌子掀了",
+        "emotions": {}
+      }
+    ],
+    "雨好": [
+      {
+        "kind": "topic",
+        "id": "umbrella",
+        "phrase": "雨好大",
+        "emotions": {}
+      }
+    ],
+    "闪闪": [
+      {
+        "kind": "topic",
+        "id": "star",
+        "phrase": "闪闪发光",
+        "emotions": {}
+      }
+    ],
+    "闪闪发": [
+      {
+        "kind": "topic",
+        "id": "star",
+        "phrase": "闪闪发光",
+        "emotions": {}
+      }
+    ],
+    "小星": [
+      {
+        "kind": "topic",
+        "id": "star",
+        "phrase": "小星星",
+        "emotions": {}
+      }
+    ],
+    "看星": [
+      {
+        "kind": "topic",
+        "id": "star",
+        "phrase": "看星空",
+        "emotions": {}
+      }
+    ],
+    "发工": [
+      {
+        "kind": "topic",
+        "id": "money",
+        "phrase": "发工资",
+        "emotions": {}
+      }
+    ],
+    "工资": [
+      {
+        "kind": "topic",
+        "id": "money",
+        "phrase": "工资到",
+        "emotions": {}
+      }
+    ],
+    "有钱": [
+      {
+        "kind": "topic",
+        "id": "money",
+        "phrase": "有钱了",
+        "emotions": {}
+      }
+    ],
+    "没钱": [
+      {
+        "kind": "topic",
+        "id": "money",
+        "phrase": "没钱了",
+        "emotions": {}
+      }
+    ],
+    "打电": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "打电话",
+        "emotions": {}
+      }
+    ],
+    "接电": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "接电话",
+        "emotions": {}
+      }
+    ],
+    "来电": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "来电话",
+        "emotions": {}
+      }
+    ],
+    "电话": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "电话响",
+        "emotions": {}
+      }
+    ],
+    "玩手": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "玩手机",
+        "emotions": {}
+      }
+    ],
+    "刷手": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "刷手机",
+        "emotions": {}
+      }
+    ],
+    "回消": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "回消息",
+        "emotions": {}
+      }
+    ],
+    "接个": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "接个电话",
+        "emotions": {}
+      }
+    ],
+    "接个电": [
+      {
+        "kind": "topic",
+        "id": "phone",
+        "phrase": "接个电话",
+        "emotions": {}
+      }
+    ],
+    "敬你": [
+      {
+        "kind": "topic",
+        "id": "cheers",
+        "phrase": "敬你一杯",
+        "emotions": {}
+      }
+    ],
+    "敬你一": [
+      {
+        "kind": "topic",
+        "id": "cheers",
+        "phrase": "敬你一杯",
+        "emotions": {}
+      }
+    ],
+    "庆功": [
+      {
+        "kind": "topic",
+        "id": "cheers",
+        "phrase": "庆功酒",
+        "emotions": {}
+      }
+    ],
+    "练肌": [
+      {
+        "kind": "topic",
+        "id": "exercise",
+        "phrase": "练肌肉",
+        "emotions": {}
+      }
+    ],
+    "俯卧": [
+      {
+        "kind": "topic",
+        "id": "exercise",
+        "phrase": "俯卧撑",
+        "emotions": {}
+      }
+    ],
+    "仰卧": [
+      {
+        "kind": "topic",
+        "id": "exercise",
+        "phrase": "仰卧起坐",
+        "emotions": {}
+      }
+    ],
+    "仰卧起": [
+      {
+        "kind": "topic",
+        "id": "exercise",
+        "phrase": "仰卧起坐",
+        "emotions": {}
+      }
+    ],
+    "练起": [
+      {
+        "kind": "topic",
+        "id": "exercise",
+        "phrase": "练起来",
+        "emotions": {}
+      }
+    ],
+    "泡温": [
+      {
+        "kind": "topic",
+        "id": "bath",
+        "phrase": "泡温泉",
+        "emotions": {}
+      }
+    ],
+    "洗白": [
+      {
+        "kind": "topic",
+        "id": "bath",
+        "phrase": "洗白白",
+        "emotions": {}
+      }
+    ],
+    "冲个": [
+      {
+        "kind": "topic",
+        "id": "bath",
+        "phrase": "冲个澡",
+        "emotions": {}
+      }
+    ],
+    "洗个": [
+      {
+        "kind": "topic",
+        "id": "bath",
+        "phrase": "洗个澡",
+        "emotions": {}
+      }
+    ],
+    "泡个": [
+      {
+        "kind": "topic",
+        "id": "bath",
+        "phrase": "泡个澡",
+        "emotions": {}
+      }
+    ],
+    "好开": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "好开心",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "太好": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "太好了",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "美滋": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "美滋滋",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "美美": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "美美哒",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "心情": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "心情好",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "好幸": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "好幸福",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "幸福": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "幸福感",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "好满": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "好满足",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "满足": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "满足了",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "乐开": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "乐开花",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "喜滋": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "喜滋滋",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "笑": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "笑开了花",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑死",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑开": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "笑开了花",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "笑开了": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "笑开了花",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "棒棒": [
+      {
+        "kind": "emotion",
+        "id": "joy_daily",
+        "phrase": "棒棒哒",
+        "emotions": {
+          "happy": 0.85,
+          "excited": 0.45
+        }
+      }
+    ],
+    "成功": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "成功了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "搞定": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "搞定了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "做完": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "做完了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "搞完": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "搞完了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "完成": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "完成了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "跑通": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "跑通了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "修好": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "修好了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "解决": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "解决了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "通过": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "通过了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "过关": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "过关了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "上岸": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "上岸了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "考上": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "考上了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "录取": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "录取了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "拿下": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "拿下了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "通关": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "通关了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "打赢": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "打赢了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "毕业": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "毕业了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "上线": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "上线了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "发布": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "发布了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "杀青": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "杀青了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "解出": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "解出来了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "解出来": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "解出来了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "终于": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "终于成功",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "终于结束",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "终于等到",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "终于成": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "终于成功",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "终于搞": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "终于搞完",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "总算": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "总算好了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "总算结束",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "总算好": [
+      {
+        "kind": "emotion",
+        "id": "victory_daily",
+        "phrase": "总算好了",
+        "emotions": {
+          "relieved": 0.82,
+          "excited": 0.72,
+          "happy": 0.55
+        }
+      }
+    ],
+    "太激": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "太激动了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "太激动": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "太激动了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "激动": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "激动死了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "激动死": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "激动死了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "嗨起": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "嗨起来",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "嗨翻": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "嗨翻了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "起飞": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "起飞了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "起飞起": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "起飞起飞",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "冲冲": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "冲冲冲",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "耶耶": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "耶耶耶",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "燃起": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "燃起来了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "燃起来": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "燃起来了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "爽翻": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "爽翻了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "爽到": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "爽到了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "太爽": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "太爽了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "双厨": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "双厨狂喜",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "双厨狂": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "双厨狂喜",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "中大": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "中大奖",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "中了": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "中了中了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "中了中": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "中了中了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "出金": [
+      {
+        "kind": "emotion",
+        "id": "excited_daily",
+        "phrase": "出金了",
+        "emotions": {
+          "excited": 0.93,
+          "happy": 0.65
+        }
+      }
+    ],
+    "哈哈": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "哈哈哈",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑不": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑不活了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑不活": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑不活了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑不动": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑不动了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑到": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑到肚子疼",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑到肚": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑到肚子疼",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑到肚子": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑到肚子疼",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑得": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑得肚子疼",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑得肚": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑得肚子疼",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑得肚子": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑得肚子疼",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "蚌埠": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "蚌埠住了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "蚌埠住": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "蚌埠住了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "绷不": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "绷不住了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "绷不住": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "绷不住了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "有被": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "有被笑到",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "有被笑": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "有被笑到",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "太搞": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "太搞笑了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "太搞笑": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "太搞笑了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑拉": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑拉了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑发": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑发财了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑发财": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑发财了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "笑晕": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "笑晕了",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "噗哈": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "噗哈哈",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "忍俊": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "忍俊不禁",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "忍俊不": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "忍俊不禁",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "憋不": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "憋不住笑",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "憋不住": [
+      {
+        "kind": "emotion",
+        "id": "amused_daily",
+        "phrase": "憋不住笑",
+        "emotions": {
+          "amused": 0.93,
+          "happy": 0.45
+        }
+      }
+    ],
+    "松了": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "松了口气",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "松了口": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "松了口气",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "松一": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "松一口气",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "松一口": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "松一口气",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "放心": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "放心了",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "放心吧",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "安心": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "安心了",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "安心吧",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "虚惊": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "虚惊一场",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "虚惊一": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "虚惊一场",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "有惊": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "有惊无险",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "有惊无": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "有惊无险",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "还好": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "还好赶上",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "还好赶": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "还好赶上",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "赶上": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "赶上了",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "没白": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "没白忙",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "苦尽": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "苦尽甘来",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "苦尽甘": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "苦尽甘来",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "雨过": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "雨过天晴",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "雨过天": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "雨过天晴",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "熬过": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "熬过来了",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "熬过来": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "熬过来了",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "如释": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "如释重负",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "如释重": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "如释重负",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "解脱": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "解脱了",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "终于结": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "终于结束",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "总算结": [
+      {
+        "kind": "emotion",
+        "id": "relief_daily",
+        "phrase": "总算结束",
+        "emotions": {
+          "relieved": 0.9,
+          "happy": 0.35
+        }
+      }
+    ],
+    "好委": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "好委屈",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "被冷": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "被冷落",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "心里": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "心里苦",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "破防": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "破防了",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "破大": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "破大防",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "不开": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "不开心",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "不高": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "不高兴",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "不快": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "不快乐",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "没有": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "没有人理我",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "没有人": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "没有人理我",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "没有人理": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "没有人理我",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "没人": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "没人理我",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "没人理": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "没人理我",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "没人爱": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "没人爱我",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "哭": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "哭唧唧",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "哭了",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "哭唧": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "哭唧唧",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "闷闷": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "闷闷不乐",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "闷闷不": [
+      {
+        "kind": "emotion",
+        "id": "sad_daily",
+        "phrase": "闷闷不乐",
+        "emotions": {
+          "sad": 0.86,
+          "crying": 0.4,
+          "helpless": 0.3
+        }
+      }
+    ],
+    "哇的": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "哇的一声",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "哇的一": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "哇的一声",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "哭出": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "哭出来了",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "哭出来": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "哭出来了",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "眼泪": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "眼泪掉下来",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "眼泪掉": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "眼泪掉下来",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "眼泪掉下": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "眼泪掉下来",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "眼泪汪": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "眼泪汪汪",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "嚎啕": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "嚎啕大哭",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "嚎啕大": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "嚎啕大哭",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "泣不": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "泣不成声",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "泣不成": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "泣不成声",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "哭成": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "哭成狗",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "流泪": [
+      {
+        "kind": "emotion",
+        "id": "cry_daily",
+        "phrase": "流泪了",
+        "emotions": {
+          "crying": 0.94,
+          "sad": 0.67
+        }
+      }
+    ],
+    "讨厌": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "讨厌死了",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "讨厌死": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "讨厌死了",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "忍无": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "忍无可忍",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "忍无可": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "忍无可忍",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "忍不": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "忍不了了",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "忍不了": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "忍不了了",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "欺人": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "欺人太甚",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "欺人太": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "欺人太甚",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "给我": [
+      {
+        "kind": "emotion",
+        "id": "anger_daily",
+        "phrase": "给我滚",
+        "emotions": {
+          "angry": 0.92,
+          "annoyed": 0.65
+        }
+      }
+    ],
+    "烦得": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "烦得很",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "不耐": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "不耐烦",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "受够": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "受够了",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "够了": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "够了啊",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "别烦": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "别烦我",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "烦不": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "烦不烦",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "烦得要": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "烦得要命",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "没完": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "没完没了",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "没完没": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "没完没了",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "有完": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "有完没完",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "有完没": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "有完没完",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "别吵": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "别吵了",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "别催": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "别催了",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "催什": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "催什么催",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "催什么": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "催什么催",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "又来": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "又来了",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      }
+    ],
+    "怎么": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "怎么还来",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "怎么又",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "怎么回事",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "怎么还": [
+      {
+        "kind": "emotion",
+        "id": "annoyed_daily",
+        "phrase": "怎么还来",
+        "emotions": {
+          "annoyed": 0.9,
+          "frustrated": 0.62
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "怎么还是",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "又错": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "又错了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "又失": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "又失败",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "失败": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "失败了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "跑不": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "跑不通",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "跑不起": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "跑不起来",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "编译": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "编译失败",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "编译失": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "编译失败",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "测试": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "测试挂了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "测试挂": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "测试挂了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "程序": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "程序挂了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "程序挂": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "程序挂了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "崩溃": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "崩溃了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "卡住": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "卡住了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "卡死": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "卡死了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "死机": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "死机了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "蓝屏": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "蓝屏了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "没保": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "没保存",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "白忙": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "白忙了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "白干": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "白干了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "白写": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "白写了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "又得": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "又得重来",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "又得重": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "又得重来",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "怎么老": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "怎么老是",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "不会": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "不会做",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "不会吧",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "做不": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "做不出来",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "做不出": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "做不出来",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "解不": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "解不出来",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "解不出": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "解不出来",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "搞不": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "搞不定",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "搞不懂",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "修不": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "修不好",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "过不": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "过不去",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "裂开": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "裂开了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "心态": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "心态崩了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "心态崩": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "心态崩了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "心态炸": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "心态炸了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "整不": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "整不会了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "整不会": [
+      {
+        "kind": "emotion",
+        "id": "failure_daily",
+        "phrase": "整不会了",
+        "emotions": {
+          "frustrated": 0.88,
+          "annoyed": 0.5,
+          "helpless": 0.5
+        }
+      }
+    ],
+    "就这": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "就这样吧",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "就这样": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "就这样吧",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "爱咋": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "爱咋咋地",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "爱咋咋": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "爱咋咋地",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "爱怎": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "爱怎么着",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "爱怎么": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "爱怎么着",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "无所": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "无所谓了",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "无所谓": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "无所谓了",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "不想": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "不想干了",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "不想上班",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不想去",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "不想干": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "不想干了",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "不干": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "不干了",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "不想努": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "不想努力了",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "不想努力": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "不想努力了",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "毁灭": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "毁灭吧",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "没办": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "没办法",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "无能": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "无能为力",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "无能为": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "无能为力",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "无可": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "无可奈何",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "无可奈": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "无可奈何",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "还能": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "还能怎么办",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "还能这样",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "还能怎": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "还能怎么办",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "还能怎么": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "还能怎么办",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "还能咋": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "还能咋办",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "随它": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "随它去",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "听天": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "听天由命",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "听天由": [
+      {
+        "kind": "emotion",
+        "id": "resign_daily",
+        "phrase": "听天由命",
+        "emotions": {
+          "helpless": 0.88,
+          "tired": 0.4,
+          "awkward": 0.35
+        }
+      }
+    ],
+    "我服": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "我服了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "服气": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "服气了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "人麻": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "人麻了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "人都": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "人都麻了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "人都麻": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "人都麻了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "彻底": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "彻底麻了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "internet_doom",
+        "phrase": "彻底完了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.65
+        }
+      }
+    ],
+    "彻底麻": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "彻底麻了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "我真": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "我真服",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "我真厉害",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "谢邀": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "谢邀人已麻",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "谢邀人": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "谢邀人已麻",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "谢邀人已": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "谢邀人已麻",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "沉默": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "沉默了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "沉默是": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "沉默是金",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "蚌住": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "蚌住了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "无力": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "无力吐槽",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "无力吐": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "无力吐槽",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "槽点": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "槽点太多",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "槽点太": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "槽点太多",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "槽多": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "槽多无口",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "槽多无": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "槽多无口",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "两眼": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "两眼一黑",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "两眼一": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "两眼一黑",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "眼前": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "眼前一黑",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "眼前一": [
+      {
+        "kind": "emotion",
+        "id": "speechless_daily",
+        "phrase": "眼前一黑",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.7,
+          "shocked": 0.35
+        }
+      }
+    ],
+    "脚趾": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "脚趾抠地",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "脚趾抠": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "脚趾抠地",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "抠出": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "抠出三室一厅",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "抠出三": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "抠出三室一厅",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "抠出三室": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "抠出三室一厅",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "抠出三室一": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "抠出三室一厅",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "尴尬": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "尴尬而不失礼貌",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "尴尬而": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "尴尬而不失礼貌",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "尴尬而不": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "尴尬而不失礼貌",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "尴尬而不失": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "尴尬而不失礼貌",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "尴尬而不失礼": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "尴尬而不失礼貌",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不知": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "不知所措",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不知所": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "不知所措",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "手足": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "手足无措",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "手足无": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "手足无措",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不知道": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "不知道说什么",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不知道说": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "不知道说什么",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不知道说什": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "不知道说什么",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不知道怎": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "不知道怎么接",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不知道怎么": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "不知道怎么接",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "接不": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "接不住话",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "接不住": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "接不住话",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "空气": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "空气突然安静",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "空气突": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "空气突然安静",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "空气突然": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "空气突然安静",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "空气突然安": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "空气突然安静",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "打扰": [
+      {
+        "kind": "emotion",
+        "id": "awkward_daily",
+        "phrase": "打扰了",
+        "emotions": {
+          "awkward": 0.9,
+          "embarrassed": 0.55
+        }
+      }
+    ],
+    "不好": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "不好意思",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "不好意思打扰",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "不好意": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "不好意思",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "不好意思打扰",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "怪不": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "怪不好意思",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "怪不好": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "怪不好意思",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "怪不好意": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "怪不好意思",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "人家": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "人家害羞",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "人家害": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "人家害羞",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "别夸": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "别夸我",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "别这": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "别这样夸",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "别这样": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "别这样夸",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "被你": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "被你夸得",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "被你夸": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "被你夸得",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "小鹿": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "小鹿乱撞",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "小鹿乱": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "小鹿乱撞",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "脸好": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "脸好烫",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "羞答": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "羞答答",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "不敢": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "不敢看你",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "不敢动",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "不敢看": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "不敢看你",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "好难": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "好难为情",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "好难为": [
+      {
+        "kind": "emotion",
+        "id": "shy_daily",
+        "phrase": "好难为情",
+        "emotions": {
+          "embarrassed": 0.9,
+          "happy": 0.3
+        }
+      }
+    ],
+    "怎么回": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "怎么回事",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "咋回": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "咋回事",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "什么": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "什么情况",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "什么情": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "什么情况",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "啥情": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "啥情况",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "为什": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "为什么",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "看不": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "看不懂",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "听不": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "听不懂",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "想不": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "想不通",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "不明": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "不明白",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "不理": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "不理解",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "没听": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "没听懂",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "没看": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "没看懂",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "没搞": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "没搞懂",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "什么意": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "什么意思",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "啥意": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "啥意思",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "一头": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "一头雾水",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "一头雾": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "一头雾水",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "满头": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "满头问号",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "满头问": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "满头问号",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "一脸": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "一脸懵",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "不懂": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "不懂就问",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "不懂就": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "不懂就问",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "这咋": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "这咋整",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "该怎": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "该怎么办",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "该怎么": [
+      {
+        "kind": "emotion",
+        "id": "confused_daily",
+        "phrase": "该怎么办",
+        "emotions": {
+          "confused": 0.9,
+          "shocked": 0.3
+        }
+      }
+    ],
+    "惊掉": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "惊掉下巴",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "惊掉下": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "惊掉下巴",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "目瞪": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "目瞪口呆",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "目瞪口": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "目瞪口呆",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "瞳孔": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "瞳孔地震",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "瞳孔地": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "瞳孔地震",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "吓一": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "吓一跳",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "好家": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "好家伙",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "太离": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "太离谱",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "离了": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "离了大谱",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "离了大": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "离了大谱",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "没想": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "没想到",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "意想": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "意想不到",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "意想不": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "意想不到",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "万万": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "万万没想到",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "万万没": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "万万没想到",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "万万没想": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "万万没想到",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "还有": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "还有这种操作",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "还有这": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "还有这种操作",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "还有这种": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "还有这种操作",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "还有这种操": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "还有这种操作",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "还能这": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "还能这样",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "离谱": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "离谱到家",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "离谱到": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "离谱到家",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "大受": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "大受震撼",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "大受震": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "大受震撼",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "震撼": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "震撼我妈",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "震撼我": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "震撼我妈",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "不可": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "不可思议",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不可以",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "不可思": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "不可思议",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "不是": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "不是吧",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      }
+    ],
+    "我的": [
+      {
+        "kind": "emotion",
+        "id": "shock_daily",
+        "phrase": "我的天",
+        "emotions": {
+          "shocked": 0.86,
+          "confused": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "我的错",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "真的": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "真的假的",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "真的假": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "真的假的",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "你认": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "你认真的",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "你认真": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "你认真的",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "你确": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "你确定",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "确定": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "确定吗",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "没骗": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "没骗我",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "别骗": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "别骗我",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "骗我": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "骗我吧",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "不太": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "不太信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "不相": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "不相信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "不对": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "不对劲",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "有猫": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "有猫腻",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "有蹊": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "有蹊跷",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "有问": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "有问题吧",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "有问题": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "有问题吧",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "真的吗": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "真的吗我不信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "真的吗我": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "真的吗我不信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "真的吗我不": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "真的吗我不信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "当我": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "当我傻",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "忽悠": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "忽悠谁",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "骗谁": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "骗谁呢",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "你猜": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "你猜我信不信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "你猜我": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "你猜我信不信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "你猜我信": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "你猜我信不信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "你猜我信不": [
+      {
+        "kind": "emotion",
+        "id": "suspicious_daily",
+        "phrase": "你猜我信不信",
+        "emotions": {
+          "suspicious": 0.9,
+          "confused": 0.5
+        }
+      }
+    ],
+    "我真厉": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "我真厉害",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "果然": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "果然是我",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "果然是": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "果然是我",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "我就": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "我就知道",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "我就知": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "我就知道",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "小意": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "小意思",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "轻轻": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "轻轻松松",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "轻轻松": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "轻轻松松",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "手到": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "手到擒来",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "手到擒": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "手到擒来",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "洒洒": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "洒洒水",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "拿捏": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "拿捏了",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "拿捏住": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "拿捏住了",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这还": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这还不简单",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这还不": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这还不简单",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这还不简": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这还不简单",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这不": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这不是有手就行",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这不是": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这不是有手就行",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这不是有": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这不是有手就行",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这不是有手": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这不是有手就行",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "这不是有手就": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "这不是有手就行",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "不愧": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "不愧是我",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "不愧是": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "不愧是我",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "我可": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "我可太强了",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "我可太": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "我可太强了",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "我可太强": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "我可太强了",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "基操": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "基操勿六",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "基操勿": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "基操勿六",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "低调": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "低调低调",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "低调低": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "低调低调",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "深藏": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "深藏功与名",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "深藏功": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "深藏功与名",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "深藏功与": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "深藏功与名",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "佩服": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "佩服我吧",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "佩服我": [
+      {
+        "kind": "emotion",
+        "id": "smug_daily",
+        "phrase": "佩服我吧",
+        "emotions": {
+          "smug": 0.9,
+          "happy": 0.45
+        }
+      }
+    ],
+    "困": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "困死",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "累": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "累死",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "精疲": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "精疲力尽",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "精疲力": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "精疲力尽",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "筋疲": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "筋疲力尽",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "筋疲力": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "筋疲力尽",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "眼皮": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "眼皮打架",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "眼皮打": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "眼皮打架",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "眼睛": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "眼睛睁不开",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "眼睛睁": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "眼睛睁不开",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "眼睛睁不": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "眼睛睁不开",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "睁不": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "睁不开眼",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "睁不开": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "睁不开眼",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "电量": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "电量不足",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "电量不": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "电量不足",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "没电": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "没电了",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "没精": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "没精神",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "精神": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "精神涣散",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "精神涣": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "精神涣散",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "昏昏": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "昏昏欲睡",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "昏昏欲": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "昏昏欲睡",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "打哈": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "打哈欠",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "又要": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "又要加班",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "又要加": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "又要加班",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "加班": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "加班到",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "不想上": [
+      {
+        "kind": "emotion",
+        "id": "tired_daily",
+        "phrase": "不想上班",
+        "emotions": {
+          "tired": 0.9,
+          "helpless": 0.35
+        }
+      }
+    ],
+    "瑟瑟": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "瑟瑟发抖",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "瑟瑟发": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "瑟瑟发抖",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "瑟瑟發": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "瑟瑟發抖",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "救命": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "救命啊",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "有人": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "有人跟踪",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "有人吗",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "有人跟": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "有人跟踪",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "有人追": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "有人追我",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "鬼故": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "鬼故事",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "心惊": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "心惊胆战",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "心惊胆": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "心惊胆战",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "提心": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "提心吊胆",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "提心吊": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "提心吊胆",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "毛骨": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "毛骨悚然",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "毛骨悚": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "毛骨悚然",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "胆战": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "胆战心惊",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "胆战心": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "胆战心惊",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "紧张": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "紧张死了",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "紧张死": [
+      {
+        "kind": "emotion",
+        "id": "fear_daily",
+        "phrase": "紧张死了",
+        "emotions": {
+          "scared": 0.92,
+          "shocked": 0.5
+        }
+      }
+    ],
+    "帮帮": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "帮帮我",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "帮个": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "帮个忙",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "救救": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "救救我",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "可怜": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "可怜可怜",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "可怜可": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "可怜可怜",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "给个": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "给个机会",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "给个机": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "给个机会",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "行行": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "行行好",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "球球": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "球球了",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "求放": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "求放过",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "求带": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "求带飞",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "带带": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "带带我",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "能帮": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "能帮我吗",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "能帮我": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "能帮我吗",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "帮我": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "帮我看看",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "帮我看": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "帮我看看",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "借我": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "借我一下",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "借我一": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "借我一下",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "赏个": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "赏个脸",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "求安": [
+      {
+        "kind": "emotion",
+        "id": "pleading_daily",
+        "phrase": "求安慰",
+        "emotions": {
+          "pleading": 0.9,
+          "embarrassed": 0.3
+        }
+      }
+    ],
+    "对不": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "对不起",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "我错": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "我错了",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "是我": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "是我的锅",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "是我的": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "是我的锅",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "我背": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "我背锅",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "对不住": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "对不住了",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "不好意思": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "不好意思打扰",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "不好意思打": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "不好意思打扰",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "请原": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "请原谅",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "原谅": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "原谅我",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "赔不": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "赔不是",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "给你添": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "给你添麻烦",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "给你添麻": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "给你添麻烦",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "给您": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "给您添麻烦",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "给您添": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "给您添麻烦",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "给您添麻": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "给您添麻烦",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "是我不": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "是我不对",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "下次": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "下次不敢了",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "下次见",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "下次不": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "下次不敢了",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "下次不敢": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "下次不敢了",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "下次注": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "下次注意",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "抱一丝": [
+      {
+        "kind": "emotion",
+        "id": "apology_daily",
+        "phrase": "抱一丝啊",
+        "emotions": {
+          "embarrassed": 0.65,
+          "pleading": 0.55
+        }
+      }
+    ],
+    "辛苦": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "辛苦你",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "麻烦": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "麻烦你了",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "麻烦你": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "麻烦你了",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "麻烦您": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "麻烦您了",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "帮大": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "帮大忙了",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "帮大忙": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "帮大忙了",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "太感": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "太感谢",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "谢谢": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "谢谢老板",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "谢谢老": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "谢谢老板",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "谢谢大": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "谢谢大佬",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "感恩": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "感恩的心",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "感恩的": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "感恩的心",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "承蒙": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "承蒙关照",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "承蒙关": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "承蒙关照",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "感谢": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "感谢支持",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "感谢支": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "感谢支持",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "多亏": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "多亏你",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "多亏了": [
+      {
+        "kind": "emotion",
+        "id": "thanks_daily",
+        "phrase": "多亏了你",
+        "emotions": {
+          "happy": 0.7,
+          "relieved": 0.4
+        }
+      }
+    ],
+    "你可": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你可以的",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "你可以": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你可以的",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "你能": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你能行",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "你一": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你一定行",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "你一定": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你一定行",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "别放": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "别放弃",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "不要": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "不要放弃",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不要不要",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "不要担心",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "不要放": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "不要放弃",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "坚持": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "坚持住",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "奥利": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "奥利给",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "干巴": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "干巴爹",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "我支": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "我支持你",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "我支持": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "我支持你",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "支持": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "支持你",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "相信": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "相信你",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "我相": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "我相信你",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "我相信": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "我相信你",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "为你": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "为你打气",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "为你打": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "为你打气",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "为你应": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "为你应援",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "继续": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "继续努力",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "继续努": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "继续努力",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "再接": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "再接再厉",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "再接再": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "再接再厉",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "你是": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你是最棒的",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "你是最": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你是最棒的",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "你是最棒": [
+      {
+        "kind": "emotion",
+        "id": "encourage_daily",
+        "phrase": "你是最棒的",
+        "emotions": {
+          "cheering": 0.92,
+          "excited": 0.5
+        }
+      }
+    ],
+    "大家": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "大家好",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "你们": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "你们好",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "早上": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "早上好",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "下午": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "下午好",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "晚上": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "晚上好",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "好久": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "好久不见",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "好久不": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "好久不见",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "初次": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "初次见面",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "初次见": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "初次见面",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "请多": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "请多关照",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "请多关": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "请多关照",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "多多": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "多多指教",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "多多指": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "多多指教",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "我来": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "我来了",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "来了": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "来了来了",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "来了来": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "来了来了",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "在不": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "在不在",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "冒个": [
+      {
+        "kind": "emotion",
+        "id": "greeting_daily",
+        "phrase": "冒个泡",
+        "emotions": {
+          "happy": 0.55,
+          "neutral": 0.3
+        }
+      }
+    ],
+    "回头": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "回头见",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "明天": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "明天见",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "明儿": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "明儿见",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "先走": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "先走了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "溜了": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "溜了溜了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "溜了溜": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "溜了溜了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "先撤": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "先撤了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "下线": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "下线了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "下播": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "下播了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "后会": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "后会有期",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "后会有": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "后会有期",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "各位": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "各位晚安",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "各位晚": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "各位晚安",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "先睡": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "先睡了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "睡了": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "睡了睡了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "睡了睡": [
+      {
+        "kind": "emotion",
+        "id": "goodbye_daily",
+        "phrase": "睡了睡了",
+        "emotions": {
+          "neutral": 0.5,
+          "relieved": 0.3,
+          "tired": 0.25
+        }
+      }
+    ],
+    "没问": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "没问题",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "可以": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "可以呀",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "明白": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "明白了",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "知道": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "知道了",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "收到": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "收到啦",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "了解": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "了解了",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "安排": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "安排上",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "包在": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "包在我身上",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "包在我": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "包在我身上",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "包在我身": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "包在我身上",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "交给": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "交给我",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "没毛": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "没毛病",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "说得": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "说得对",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "有道": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "有道理",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "确实": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "确实如此",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "确实如": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "确实如此",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "那必": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "那必须的",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "那必须": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "那必须的",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "妥妥": [
+      {
+        "kind": "emotion",
+        "id": "agree_daily",
+        "phrase": "妥妥的",
+        "emotions": {
+          "happy": 0.4,
+          "neutral": 0.4
+        }
+      }
+    ],
+    "不愿": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不愿意",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "拒绝": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "拒绝了",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "不答": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不答应",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "不接": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不接受",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "想都": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "想都别想",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "想都别": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "想都别想",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "别想": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "别想了",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "想得": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "想得美",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "才不": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "才不要",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "不要不": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不要不要",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "不可以": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "不可以哦",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "恕我": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "恕我拒绝",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "恕我拒": [
+      {
+        "kind": "emotion",
+        "id": "refuse_daily",
+        "phrase": "恕我拒绝",
+        "emotions": {
+          "annoyed": 0.5,
+          "neutral": 0.35
+        }
+      }
+    ],
+    "没关": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "没关系",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "没关系": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "没关系的",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "别担": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "别担心",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "不要担": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "不要担心",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "别难": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "别难过",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "别伤": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "别伤心",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "不哭": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "不哭不哭",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "不哭不": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "不哭不哭",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "会好": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "会好起来",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "会好起": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "会好起来",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "一切": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "一切都会好",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "一切都": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "一切都会好",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "一切都会": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "一切都会好",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "都会": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "都会过去",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "都会过": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "都会过去",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "慢慢": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "慢慢来",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "别着": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "别着急",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "不急": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "不急不急",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "不急不": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "不急不急",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "放轻": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "放轻松",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "放松": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "放松点",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "有我": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "有我在",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "我陪": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "我陪你",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "陪着": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "陪着你",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "抱抱": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "抱抱你",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "安慰": [
+      {
+        "kind": "emotion",
+        "id": "comfort_daily",
+        "phrase": "安慰你",
+        "emotions": {
+          "relieved": 0.65,
+          "pleading": 0.2,
+          "neutral": 0.25
+        }
+      }
+    ],
+    "好厉": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "好厉害",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "太牛": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "太牛了",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "真不": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "真不错",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "优秀": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "优秀啊",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "绝绝": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "绝绝子",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "无敌": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "无敌了",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "秀翻": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "秀翻了",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "干得": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "干得漂亮",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "干得漂": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "干得漂亮",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "做得": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "做得好",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "帅呆": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "帅呆了",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "帅炸": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "帅炸了",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "真好": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "真好看",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "好漂": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "好漂亮",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "有点": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "有点东西",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "有点东": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "有点东西",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "赞一": [
+      {
+        "kind": "emotion",
+        "id": "praise_daily",
+        "phrase": "赞一个",
+        "emotions": {
+          "excited": 0.82,
+          "cheering": 0.6,
+          "happy": 0.5
+        }
+      }
+    ],
+    "好期": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "好期待",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "等不": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "等不及",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "迫不": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "迫不及待",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "迫不及": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "迫不及待",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "好想": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "好想要",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      },
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "好想你",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "跃跃": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "跃跃欲试",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "跃跃欲": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "跃跃欲试",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "搓搓": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "搓搓手",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "心痒": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "心痒痒",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "盼到": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "盼到了",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "终于等": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "终于等到",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "等着": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "等着你",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "翘首": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "翘首以盼",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "翘首以": [
+      {
+        "kind": "emotion",
+        "id": "anticipation_daily",
+        "phrase": "翘首以盼",
+        "emotions": {
+          "excited": 0.7,
+          "pleading": 0.45
+        }
+      }
+    ],
+    "想你": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "想你了",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "想死": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "想死你了",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "想死你": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "想死你了",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "么么": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "么么哒",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "小可": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "小可爱",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "好可": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "好可爱",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "可爱": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "可爱死了",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "可爱死": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "可爱死了",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "萌死": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "萌死了",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "萌萌": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "萌萌哒",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "甜甜": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "甜甜的",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "甜到": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "甜到心里",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "甜到心": [
+      {
+        "kind": "emotion",
+        "id": "affection_daily",
+        "phrase": "甜到心里",
+        "emotions": {
+          "happy": 0.85,
+          "embarrassed": 0.4
+        }
+      }
+    ],
+    "完犊": [
+      {
+        "kind": "emotion",
+        "id": "internet_doom",
+        "phrase": "完犊子",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.65
+        }
+      }
+    ],
+    "要寄": [
+      {
+        "kind": "emotion",
+        "id": "internet_doom",
+        "phrase": "要寄了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.65
+        }
+      }
+    ],
+    "人没": [
+      {
+        "kind": "emotion",
+        "id": "internet_doom",
+        "phrase": "人没了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.65
+        }
+      }
+    ],
+    "要完": [
+      {
+        "kind": "emotion",
+        "id": "internet_doom",
+        "phrase": "要完了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.65
+        }
+      }
+    ],
+    "要命": [
+      {
+        "kind": "emotion",
+        "id": "internet_doom",
+        "phrase": "要命了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.65
+        }
+      }
+    ],
+    "彻底完": [
+      {
+        "kind": "emotion",
+        "id": "internet_doom",
+        "phrase": "彻底完了",
+        "emotions": {
+          "helpless": 0.85,
+          "frustrated": 0.65
+        }
+      }
+    ]
+  }
 }
