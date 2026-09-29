@@ -41,19 +41,19 @@ def test_prefix_candidates_preserve_typed_chinese(lua_env):
     assert expanded[1].text.startswith('咖 ')
     assert '咖啡' in expanded[1].comment
 
-def test_shift_enter_commits_only_face(lua_env):
+def test_f7_commits_only_face(lua_env):
     lua, mod, env, ctx, _ = lua_env
     result = lua.globals().run_filter(mod, env, source(lua))
     ctx.selected = result[4]
     expected = result[4].text.removeprefix('终于成功了 ')
-    assert mod.processor.func(lua.globals().make_key('Shift+Return'), env) == 1
+    assert mod.processor.func(lua.globals().make_key('F7'), env) == 1
     assert ctx.output == expected
     assert ctx.input == '' and not ctx.composing
 
-def test_shift_enter_preserves_normal_candidate(lua_env):
+def test_f7_preserves_normal_candidate(lua_env):
     lua, mod, env, ctx, _ = lua_env
     ctx.selected = source(lua)[1]
-    assert mod.processor.func(lua.globals().make_key('Shift+Return'), env) == 2
+    assert mod.processor.func(lua.globals().make_key('F7'), env) == 2
     assert ctx.output is None and ctx.input != ''
 
 def test_selected_homophone_and_edit_reset(lua_env):

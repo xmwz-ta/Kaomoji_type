@@ -180,7 +180,7 @@ function M.processor.func(key, env)
       return 1
     end
     if not st.enabled or ctx:get_option("ascii_mode") then return 2 end
-    if key:repr() == "Shift+Return" then
+    if key:repr() == "F7" then
       local selected = ctx:get_selected_candidate()
       local face = selected and selected.type == "kaomoji" and st.faces_input == ctx.input
         and st.faces and st.faces[selected.text]

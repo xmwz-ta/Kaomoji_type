@@ -171,13 +171,13 @@ menu:
             process(session, ord(str(index + 1)), 0)
             selected = commit_text()
             assert selected == with_faces[index]["text"] and selected.startswith("终于成功了 "), selected
-            # Highlight the fourth candidate; Shift+Enter commits its face only.
+            # Highlight the fourth candidate; F7 commits its face only.
             for ch in "zhongyuchenggongle":
                 process(session, ord(ch), 0)
             shortcut_menu = menu()
             for _ in range(3):
                 process(session, 0xff54, 0)
-            assert process(session, 0xff0d, 1), "Shift+Return was not handled"
+            assert process(session, 0xffc4, 0), "F7 was not handled"
             shortcut_face = commit_text()
             assert shortcut_face == shortcut_menu[3]["text"].removeprefix("终于成功了 "), shortcut_face
             # Plain sentence commit -> F8 -> faces-only translator.
@@ -226,7 +226,7 @@ menu:
                     "post_commit_face": face_commit, "service_down_chinese_passed": True,
                     "schema": schema_id, "offline": True,
                     "homophone_and_pagination": bool(shared_data),
-                    "shift_enter_face_only": shortcut_face,
+                    "f7_face_only": shortcut_face,
                     "scope": "Isolated real Rime DLL with " + ("official pinyin dictionary" if shared_data else "QA table dictionary") + "; TSF/front-end UI not tested"}
         finally:
             bridge.stop()
