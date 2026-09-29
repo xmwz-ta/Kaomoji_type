@@ -9,6 +9,7 @@ function make_environment(directory, options)
   function ctx:is_composing() return self.composing end
   function ctx:refresh_non_confirmed_composition() self.refreshed = self.refreshed + 1 end
   function ctx:push_input(input) self.input = input; self.composing = true end
+  function ctx:clear() self.input = ""; self.composing = false; self.selected = nil end
   function ctx:get_selected_candidate() return self.selected end
   function ctx:get_commit_text() return self.committed_text end
   ctx.composition = {}
@@ -24,6 +25,7 @@ function make_environment(directory, options)
   function config:get_bool(key) return options[key] end
   function config:get_int(key) return options[key] end
   local env = { engine = { context = ctx, schema = { config = config } } }
+  function env.engine:commit_text(text) ctx.output = text end
   return env, ctx
 end
 function Candidate(kind, start, finish, text, comment)

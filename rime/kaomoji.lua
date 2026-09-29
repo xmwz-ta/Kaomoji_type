@@ -81,6 +81,9 @@ M.filter.init, M.filter.fini = init, fini
 function M.filter.func(input, env)
   local first, count, result = nil, 0, {}
   local st = states[env.kaomoji_id]
+  if st and env.engine.context.input ~= "km" then
+    st.faces, st.faces_input = {}, env.engine.context.input
+  end
   if st and st.locked and st.locked.raw ~= env.engine.context.input then st.locked = nil end
   local source
   local inserted = false
@@ -91,6 +94,7 @@ function M.filter.func(input, env)
       local text = st.append and (source.text .. " " .. row.text) or row.text
       local comment = row.completion and row.completion ~= "" and ("联想：" .. row.completion) or ("颜文字 · " .. source.text)
       local candidate = Candidate("kaomoji", source.start, source._end, text, comment)
+      st.faces[text] = row.text
       candidate.preedit = source.preedit
       yield(candidate)
     end
@@ -121,8 +125,10 @@ function M.translator.func(input, seg, env)
     return value
   end)
   if ok then
+    st.faces, st.faces_input = {}, ctx.input
     for _, row in ipairs(result) do
       local candidate = Candidate("kaomoji", seg.start, seg._end, row.text, "颜文字")
+      st.faces[row.text] = row.text
       candidate.quality = 1000
       yield(candidate)
     end
@@ -174,6 +180,17 @@ function M.processor.func(key, env)
       return 1
     end
     if not st.enabled or ctx:get_option("ascii_mode") then return 2 end
+    if key:repr() == "Shift+Return" then
+      local selected = ctx:get_selected_candidate()
+      local face = selected and selected.type == "kaomoji" and st.faces_input == ctx.input
+        and st.faces and st.faces[selected.text]
+      if not face then return 2 end
+      -- Use the original face, never split on spaces inside Unicode art.
+      ctx:clear()
+      st.locked, st.last_commit, st.commit_time, st.faces = nil, "", 0, {}
+      env.engine:commit_text(face)
+      return 1
+    end
     if key:repr() == "Escape" then st.locked = nil end
     if key:repr() == "F8" then
       if ctx:is_composing() then
