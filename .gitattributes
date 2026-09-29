@@ -1,0 +1,2 @@
+# Preserve the exact upstream snapshot bytes for provenance SHA-256 checks.
+data/upstream/kaomojikan/kaomoji.json -text
