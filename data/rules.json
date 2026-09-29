@@ -3024,6 +3024,95 @@
         "獭獭"
       ],
       "exact": []
+    },
+    {
+      "id": "cute",
+      "label": "可爱",
+      "kind": "emotion",
+      "phrases": [
+        "可爱",
+        "好萌",
+        "萌萌哒",
+        "卖萌",
+        "软萌",
+        "萌死了",
+        "卡哇伊"
+      ],
+      "exact": []
+    },
+    {
+      "id": "throw",
+      "label": "扔东西",
+      "kind": "action",
+      "phrases": [
+        "扔东西",
+        "丢东西",
+        "扔出去",
+        "丢出去",
+        "扔给你",
+        "丢给你",
+        "接住",
+        "投掷"
+      ],
+      "exact": []
+    },
+    {
+      "id": "collapse",
+      "label": "倒地",
+      "kind": "action",
+      "phrases": [
+        "倒地",
+        "倒下了",
+        "晕倒",
+        "累倒了",
+        "倒地不起",
+        "瘫倒",
+        "躺倒",
+        "两眼一黑"
+      ],
+      "exact": []
+    },
+    {
+      "id": "fan",
+      "label": "追星",
+      "kind": "action",
+      "phrases": [
+        "追星",
+        "应援",
+        "我的偶像",
+        "嗑到了",
+        "磕到了",
+        "嗑糖",
+        "磕糖",
+        "推し",
+        "本命"
+      ],
+      "exact": []
+    },
+    {
+      "id": "tongue",
+      "label": "吐舌头",
+      "kind": "action",
+      "phrases": [
+        "吐舌头",
+        "吐舌",
+        "略略略",
+        "调皮",
+        "做鬼脸"
+      ],
+      "exact": []
+    },
+    {
+      "id": "hamster",
+      "label": "仓鼠",
+      "kind": "animal",
+      "phrases": [
+        "仓鼠",
+        "小仓鼠",
+        "鼠鼠",
+        "仓鼠宝宝"
+      ],
+      "exact": []
     }
   ],
   "prefixes": {
@@ -4670,6 +4759,214 @@
         "kind": "topic",
         "id": "otter",
         "phrase": "海獭搓脸",
+        "emotions": {}
+      }
+    ],
+    "萌萌": [
+      {
+        "kind": "topic",
+        "id": "cute",
+        "phrase": "萌萌哒",
+        "emotions": {}
+      }
+    ],
+    "萌死": [
+      {
+        "kind": "topic",
+        "id": "cute",
+        "phrase": "萌死了",
+        "emotions": {}
+      }
+    ],
+    "卡哇": [
+      {
+        "kind": "topic",
+        "id": "cute",
+        "phrase": "卡哇伊",
+        "emotions": {}
+      }
+    ],
+    "扔东": [
+      {
+        "kind": "topic",
+        "id": "throw",
+        "phrase": "扔东西",
+        "emotions": {}
+      }
+    ],
+    "丢东": [
+      {
+        "kind": "topic",
+        "id": "throw",
+        "phrase": "丢东西",
+        "emotions": {}
+      }
+    ],
+    "扔出": [
+      {
+        "kind": "topic",
+        "id": "throw",
+        "phrase": "扔出去",
+        "emotions": {}
+      }
+    ],
+    "丢出": [
+      {
+        "kind": "topic",
+        "id": "throw",
+        "phrase": "丢出去",
+        "emotions": {}
+      }
+    ],
+    "扔给": [
+      {
+        "kind": "topic",
+        "id": "throw",
+        "phrase": "扔给你",
+        "emotions": {}
+      }
+    ],
+    "丢给": [
+      {
+        "kind": "topic",
+        "id": "throw",
+        "phrase": "丢给你",
+        "emotions": {}
+      }
+    ],
+    "倒下": [
+      {
+        "kind": "topic",
+        "id": "collapse",
+        "phrase": "倒下了",
+        "emotions": {}
+      }
+    ],
+    "累": [
+      {
+        "kind": "topic",
+        "id": "collapse",
+        "phrase": "累倒了",
+        "emotions": {}
+      }
+    ],
+    "累倒": [
+      {
+        "kind": "topic",
+        "id": "collapse",
+        "phrase": "累倒了",
+        "emotions": {}
+      }
+    ],
+    "倒地": [
+      {
+        "kind": "topic",
+        "id": "collapse",
+        "phrase": "倒地不起",
+        "emotions": {}
+      }
+    ],
+    "倒地不": [
+      {
+        "kind": "topic",
+        "id": "collapse",
+        "phrase": "倒地不起",
+        "emotions": {}
+      }
+    ],
+    "两眼": [
+      {
+        "kind": "topic",
+        "id": "collapse",
+        "phrase": "两眼一黑",
+        "emotions": {}
+      }
+    ],
+    "两眼一": [
+      {
+        "kind": "topic",
+        "id": "collapse",
+        "phrase": "两眼一黑",
+        "emotions": {}
+      }
+    ],
+    "我的": [
+      {
+        "kind": "topic",
+        "id": "fan",
+        "phrase": "我的偶像",
+        "emotions": {}
+      }
+    ],
+    "我的偶": [
+      {
+        "kind": "topic",
+        "id": "fan",
+        "phrase": "我的偶像",
+        "emotions": {}
+      }
+    ],
+    "嗑到": [
+      {
+        "kind": "topic",
+        "id": "fan",
+        "phrase": "嗑到了",
+        "emotions": {}
+      }
+    ],
+    "磕到": [
+      {
+        "kind": "topic",
+        "id": "fan",
+        "phrase": "磕到了",
+        "emotions": {}
+      }
+    ],
+    "吐舌": [
+      {
+        "kind": "topic",
+        "id": "tongue",
+        "phrase": "吐舌头",
+        "emotions": {}
+      }
+    ],
+    "略略": [
+      {
+        "kind": "topic",
+        "id": "tongue",
+        "phrase": "略略略",
+        "emotions": {}
+      }
+    ],
+    "做鬼": [
+      {
+        "kind": "topic",
+        "id": "tongue",
+        "phrase": "做鬼脸",
+        "emotions": {}
+      }
+    ],
+    "小仓": [
+      {
+        "kind": "topic",
+        "id": "hamster",
+        "phrase": "小仓鼠",
+        "emotions": {}
+      }
+    ],
+    "仓鼠": [
+      {
+        "kind": "topic",
+        "id": "hamster",
+        "phrase": "仓鼠宝宝",
+        "emotions": {}
+      }
+    ],
+    "仓鼠宝": [
+      {
+        "kind": "topic",
+        "id": "hamster",
+        "phrase": "仓鼠宝宝",
         "emotions": {}
       }
     ],
@@ -7785,30 +8082,6 @@
         }
       }
     ],
-    "两眼": [
-      {
-        "kind": "emotion",
-        "id": "speechless_daily",
-        "phrase": "两眼一黑",
-        "emotions": {
-          "helpless": 0.85,
-          "frustrated": 0.7,
-          "shocked": 0.35
-        }
-      }
-    ],
-    "两眼一": [
-      {
-        "kind": "emotion",
-        "id": "speechless_daily",
-        "phrase": "两眼一黑",
-        "emotions": {
-          "helpless": 0.85,
-          "frustrated": 0.7,
-          "shocked": 0.35
-        }
-      }
-    ],
     "眼前": [
       {
         "kind": "emotion",
@@ -9013,26 +9286,6 @@
         }
       }
     ],
-    "我的": [
-      {
-        "kind": "emotion",
-        "id": "shock_daily",
-        "phrase": "我的天",
-        "emotions": {
-          "shocked": 0.86,
-          "confused": 0.35
-        }
-      },
-      {
-        "kind": "emotion",
-        "id": "apology_daily",
-        "phrase": "我的错",
-        "emotions": {
-          "embarrassed": 0.65,
-          "pleading": 0.55
-        }
-      }
-    ],
     "真的": [
       {
         "kind": "emotion",
@@ -9709,17 +9962,6 @@
         "kind": "emotion",
         "id": "tired_daily",
         "phrase": "困死",
-        "emotions": {
-          "tired": 0.9,
-          "helpless": 0.35
-        }
-      }
-    ],
-    "累": [
-      {
-        "kind": "emotion",
-        "id": "tired_daily",
-        "phrase": "累死",
         "emotions": {
           "tired": 0.9,
           "helpless": 0.35
@@ -12686,28 +12928,6 @@
         "kind": "emotion",
         "id": "affection_daily",
         "phrase": "可爱死了",
-        "emotions": {
-          "happy": 0.85,
-          "embarrassed": 0.4
-        }
-      }
-    ],
-    "萌死": [
-      {
-        "kind": "emotion",
-        "id": "affection_daily",
-        "phrase": "萌死了",
-        "emotions": {
-          "happy": 0.85,
-          "embarrassed": 0.4
-        }
-      }
-    ],
-    "萌萌": [
-      {
-        "kind": "emotion",
-        "id": "affection_daily",
-        "phrase": "萌萌哒",
         "emotions": {
           "happy": 0.85,
           "embarrassed": 0.4

@@ -1,0 +1,18 @@
+{
+  "repository": "https://github.com/kaomojikan/kaomoji-data",
+  "revision": "60c92ea4e85279ad42ff525e9a40464ebeb1003e",
+  "retrieved": "2026-09-29",
+  "license": "MIT",
+  "license_file": "upstream/kaomojikan/LICENSE",
+  "sha256": "22721e1b31d60fee5a9bd9f26c8639ab4efee2e6c01cec3f674f0e0d1d3aea2b",
+  "source_records": 1808,
+  "accepted_before_existing_dictionary_dedup": 1563,
+  "rejected": {
+    "invalid_or_multiline": 47,
+    "ascii_art_category": 11,
+    "duplicate_in_source": 161,
+    "unmapped_meaning": 26
+  },
+  "added_unique_entries": 1401,
+  "final_dictionary_size": 2378
+}
