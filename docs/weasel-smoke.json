@@ -1,0 +1,10 @@
+{
+  "dll": "weasel-0.17.4-x86/rime.dll",
+  "lua_module": true,
+  "native_engine_passed": true,
+  "candidate_inserted_at": 4,
+  "selected_text": "终于成功了 ε-(´∀｀; )",
+  "post_commit_face": "ε-(´∀｀; )",
+  "service_down_chinese_passed": true,
+  "scope": "Isolated real Rime DLL with QA table dictionary; TSF/front-end UI not tested"
+}

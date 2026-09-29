@@ -1,0 +1,5 @@
+# Runtime uses only Python 3.11+ standard library.
+# These packages run the Python, YAML and real Lua-runtime integration tests.
+pytest>=8,<10
+PyYAML>=6,<7
+lupa>=2.4,<3

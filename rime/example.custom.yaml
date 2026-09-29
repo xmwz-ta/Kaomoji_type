@@ -1,0 +1,13 @@
+# Merge into <schema_id>.custom.yaml. Do not rename to default.custom.yaml.
+patch:
+  "engine/processors/@before 0": lua_processor@kaomoji_processor
+  "engine/translators/@before 0": lua_translator@kaomoji_translator
+  "engine/filters/@next": lua_filter@kaomoji_filter
+  "recognizer/patterns/kaomoji": "^km$"
+  "menu/page_size": 9
+  "kaomoji/enabled": true
+  "kaomoji/insert_after": 3
+  "kaomoji/auto_count": 6
+  "kaomoji/expanded_count": 36
+  "kaomoji/append_to_candidate": true
+  # Offline engine is enabled automatically; no Python service is required.

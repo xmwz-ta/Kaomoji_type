@@ -1,0 +1,537 @@
+[
+  {
+    "text": "我终于搞完了",
+    "expected_emotion": "relieved",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "终于成功了",
+    "expected_emotion": "relieved",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我终于把程序跑通了",
+    "expected_emotion": "relieved",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "总算解决了",
+    "expected_emotion": "relieved",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "没事",
+    "expected_emotion": "relieved",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "别担心",
+    "expected_emotion": "relieved",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "居然成功了",
+    "expected_emotion": "excited",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "牛逼",
+    "expected_emotion": "excited",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "好耶",
+    "expected_emotion": "excited",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "太强了",
+    "expected_emotion": "excited",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "程序终于跑通了",
+    "expected_emotion": "excited",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "哈哈哈哈笑死我了",
+    "expected_emotion": "amused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "笑死",
+    "expected_emotion": "amused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "绷不住了",
+    "expected_emotion": "amused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "救命哈哈这也太好笑了",
+    "expected_emotion": "amused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "这个真的搞笑",
+    "expected_emotion": "amused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "😂😂😂",
+    "expected_emotion": "amused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "怎么又报错",
+    "expected_emotion": "frustrated",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "怎么又是这个报错",
+    "expected_emotion": "frustrated",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "麻了",
+    "expected_emotion": "frustrated",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "又失败了",
+    "expected_emotion": "frustrated",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "跑不通",
+    "expected_emotion": "frustrated",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我服了",
+    "expected_emotion": "frustrated",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "行吧",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "算了",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "随便",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "不想干了",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "完蛋",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "寄",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "无语了",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我认命了",
+    "expected_emotion": "helpless",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "？？？",
+    "expected_emotion": "confused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "怎么回事",
+    "expected_emotion": "confused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "为什么这样",
+    "expected_emotion": "confused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我看不懂",
+    "expected_emotion": "confused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "不明白",
+    "expected_emotion": "confused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "？",
+    "expected_emotion": "confused",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "你认真的？",
+    "expected_emotion": "suspicious",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "真的假的",
+    "expected_emotion": "suspicious",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "真的吗",
+    "expected_emotion": "suspicious",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "别骗我",
+    "expected_emotion": "suspicious",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "这个很可疑",
+    "expected_emotion": "suspicious",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "呵呵",
+    "expected_emotion": "sarcastic",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "呵呵你又来了",
+    "expected_emotion": "sarcastic",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "你可真行呵呵",
+    "expected_emotion": "sarcastic",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "好家伙",
+    "expected_emotion": "shocked",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "救命",
+    "expected_emotion": "shocked",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "太离谱了",
+    "expected_emotion": "shocked",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "草",
+    "expected_emotion": "shocked",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "卧槽",
+    "expected_emotion": "shocked",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "竟然还有这种事",
+    "expected_emotion": "shocked",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "没想到啊",
+    "expected_emotion": "shocked",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "气死我了",
+    "expected_emotion": "angry",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "真生气",
+    "expected_emotion": "angry",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "可恶",
+    "expected_emotion": "angry",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "😡",
+    "expected_emotion": "angry",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "混蛋",
+    "expected_emotion": "angry",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "困死了",
+    "expected_emotion": "tired",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我要睡觉",
+    "expected_emotion": "tired",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "好累啊",
+    "expected_emotion": "tired",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "昨天又熬夜",
+    "expected_emotion": "tired",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "🥱",
+    "expected_emotion": "tired",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "对不起",
+    "expected_emotion": "embarrassed",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "抱歉",
+    "expected_emotion": "embarrassed",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "害羞",
+    "expected_emotion": "embarrassed",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "脸红了",
+    "expected_emotion": "embarrassed",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我错了",
+    "expected_emotion": "embarrassed",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "谢谢你",
+    "expected_emotion": "happy",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "感谢帮助",
+    "expected_emotion": "happy",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "你好",
+    "expected_emotion": "happy",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "早上好",
+    "expected_emotion": "happy",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "开心",
+    "expected_emotion": "happy",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "好的",
+    "expected_emotion": "happy",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "同意",
+    "expected_emotion": "happy",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "加油",
+    "expected_emotion": "cheering",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "别放弃",
+    "expected_emotion": "cheering",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "你可以的",
+    "expected_emotion": "cheering",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "冲鸭",
+    "expected_emotion": "cheering",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "支持你",
+    "expected_emotion": "cheering",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "救命地震了",
+    "expected_emotion": "scared",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "有人跟踪我救命",
+    "expected_emotion": "scared",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "好害怕",
+    "expected_emotion": "scared",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "着火了",
+    "expected_emotion": "scared",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "恐怖片太可怕了",
+    "expected_emotion": "scared",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "好难过",
+    "expected_emotion": "sad",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "伤心了",
+    "expected_emotion": "sad",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "今天有点失落",
+    "expected_emotion": "sad",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "心碎",
+    "expected_emotion": "sad",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "呜呜呜",
+    "expected_emotion": "crying",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我要哭了",
+    "expected_emotion": "crying",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "😭",
+    "expected_emotion": "crying",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "泪目了",
+    "expected_emotion": "crying",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "太尴尬了",
+    "expected_emotion": "awkward",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "社死现场",
+    "expected_emotion": "awkward",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "冷场了",
+    "expected_emotion": "awkward",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "汗颜",
+    "expected_emotion": "awkward",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我真厉害",
+    "expected_emotion": "smug",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "果然是我",
+    "expected_emotion": "smug",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "小意思",
+    "expected_emotion": "smug",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "我就知道",
+    "expected_emotion": "smug",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "求求你",
+    "expected_emotion": "pleading",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "拜托了",
+    "expected_emotion": "pleading",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "帮帮我",
+    "expected_emotion": "pleading",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "求助",
+    "expected_emotion": "pleading",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "今天下午开会",
+    "expected_emotion": "neutral",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "这是一棵草",
+    "expected_emotion": "neutral",
+    "minimum_score": 0.2
+  },
+  {
+    "text": "寄快递",
+    "expected_emotion": "neutral",
+    "minimum_score": 0.2
+  }
+]

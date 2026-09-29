@@ -1,0 +1,23 @@
+{
+  "python": "3.13.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "database_size": 918,
+  "corpus_size": 107,
+  "iterations": 300,
+  "backend": "rules",
+  "analysis": {
+    "mean_ms": 0.1153,
+    "p95_ms": 0.1896,
+    "max_ms": 0.7282
+  },
+  "ranking": {
+    "mean_ms": 0.7155,
+    "p95_ms": 1.133,
+    "max_ms": 1.5721
+  },
+  "cached_total": {
+    "mean_ms": 0.0423,
+    "p95_ms": 0.0641,
+    "max_ms": 0.1317
+  }
+}
