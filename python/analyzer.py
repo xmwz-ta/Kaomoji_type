@@ -73,7 +73,10 @@ class Analyzer:
                     scores[emotion] = min(scores.get(emotion, 0), cap)
         topics = []
         for topic in self.topics:
-            matches = [current.find(p) for p in topic["phrases"] if p in current]
+            searchable = current
+            for excluded in topic.get("exclude_phrases", []):
+                searchable = searchable.replace(excluded, " " * len(excluded))
+            matches = [searchable.find(p) for p in topic["phrases"] if p in searchable]
             exact = current.strip(" 。！？，.!?,") in topic.get("exact", [])
             if exact or any(not (topic["kind"] == "action" and NEGATION.search(current[:pos][-6:])) for pos in matches):
                 topics.append(topic["id"])

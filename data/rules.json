@@ -2585,6 +2585,10 @@
         "熊抱",
         "北极熊"
       ],
+      "exclude_phrases": [
+        "小熊猫",
+        "红熊猫"
+      ],
       "exact": [
         "熊"
       ]
@@ -2599,6 +2603,10 @@
         "胖达",
         "滚滚",
         "熊猫宝宝"
+      ],
+      "exclude_phrases": [
+        "小熊猫",
+        "红熊猫"
       ],
       "exact": []
     },
@@ -2807,7 +2815,16 @@
         "一拳",
         "打爆",
         "决斗",
-        "砍你"
+        "砍你",
+        "打你哦",
+        "打你哟",
+        "捶你",
+        "捶捶你",
+        "锤你",
+        "揍扁你",
+        "吃我一拳",
+        "看我一拳",
+        "给你一拳"
       ],
       "exact": []
     },
@@ -2942,6 +2959,71 @@
         "泡个澡"
       ],
       "exact": []
+    },
+    {
+      "id": "silly",
+      "label": "笨",
+      "kind": "emotion",
+      "exact": [
+        "笨"
+      ],
+      "phrases": [
+        "笨笨",
+        "笨蛋",
+        "小笨蛋",
+        "笨手笨脚",
+        "太笨",
+        "好笨",
+        "真笨",
+        "笨死了",
+        "笨拙",
+        "傻乎乎",
+        "呆头呆脑"
+      ]
+    },
+    {
+      "id": "red_panda",
+      "label": "小熊猫",
+      "kind": "animal",
+      "phrases": [
+        "小熊猫",
+        "红熊猫",
+        "小熊猫宝宝",
+        "小熊猫举手"
+      ],
+      "exact": []
+    },
+    {
+      "id": "villain",
+      "label": "坏蛋",
+      "kind": "emotion",
+      "phrases": [
+        "坏蛋",
+        "大坏蛋",
+        "小坏蛋",
+        "坏家伙",
+        "小恶魔",
+        "大恶魔",
+        "使坏",
+        "坏笑",
+        "邪恶",
+        "恶作剧"
+      ],
+      "exact": []
+    },
+    {
+      "id": "otter",
+      "label": "海獭",
+      "kind": "animal",
+      "phrases": [
+        "海獭",
+        "小海獭",
+        "海獭宝宝",
+        "海獭抱贝壳",
+        "海獭搓脸",
+        "獭獭"
+      ],
+      "exact": []
     }
   ],
   "prefixes": {
@@ -2972,6 +3054,12 @@
         "kind": "topic",
         "id": "bow",
         "phrase": "给你磕一个",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "给你一拳",
         "emotions": {}
       }
     ],
@@ -3272,6 +3360,12 @@
         "kind": "topic",
         "id": "peek",
         "phrase": "吃瓜",
+        "emotions": {}
+      },
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "吃我一拳",
         "emotions": {}
       }
     ],
@@ -4027,6 +4121,70 @@
         "emotions": {}
       }
     ],
+    "打你": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "打你哦",
+        "emotions": {}
+      }
+    ],
+    "捶捶": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "捶捶你",
+        "emotions": {}
+      }
+    ],
+    "揍扁": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "揍扁你",
+        "emotions": {}
+      }
+    ],
+    "吃我": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "吃我一拳",
+        "emotions": {}
+      }
+    ],
+    "吃我一": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "吃我一拳",
+        "emotions": {}
+      }
+    ],
+    "看我": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "看我一拳",
+        "emotions": {}
+      }
+    ],
+    "看我一": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "看我一拳",
+        "emotions": {}
+      }
+    ],
+    "给你一": [
+      {
+        "kind": "topic",
+        "id": "fight",
+        "phrase": "给你一拳",
+        "emotions": {}
+      }
+    ],
     "掀桌": [
       {
         "kind": "topic",
@@ -4320,6 +4478,198 @@
         "kind": "topic",
         "id": "bath",
         "phrase": "泡个澡",
+        "emotions": {}
+      }
+    ],
+    "小笨": [
+      {
+        "kind": "topic",
+        "id": "silly",
+        "phrase": "小笨蛋",
+        "emotions": {}
+      }
+    ],
+    "笨手": [
+      {
+        "kind": "topic",
+        "id": "silly",
+        "phrase": "笨手笨脚",
+        "emotions": {}
+      }
+    ],
+    "笨手笨": [
+      {
+        "kind": "topic",
+        "id": "silly",
+        "phrase": "笨手笨脚",
+        "emotions": {}
+      }
+    ],
+    "笨死": [
+      {
+        "kind": "topic",
+        "id": "silly",
+        "phrase": "笨死了",
+        "emotions": {}
+      }
+    ],
+    "傻乎": [
+      {
+        "kind": "topic",
+        "id": "silly",
+        "phrase": "傻乎乎",
+        "emotions": {}
+      }
+    ],
+    "呆头": [
+      {
+        "kind": "topic",
+        "id": "silly",
+        "phrase": "呆头呆脑",
+        "emotions": {}
+      }
+    ],
+    "呆头呆": [
+      {
+        "kind": "topic",
+        "id": "silly",
+        "phrase": "呆头呆脑",
+        "emotions": {}
+      }
+    ],
+    "小熊": [
+      {
+        "kind": "topic",
+        "id": "red_panda",
+        "phrase": "小熊猫",
+        "emotions": {}
+      }
+    ],
+    "红熊": [
+      {
+        "kind": "topic",
+        "id": "red_panda",
+        "phrase": "红熊猫",
+        "emotions": {}
+      }
+    ],
+    "小熊猫": [
+      {
+        "kind": "topic",
+        "id": "red_panda",
+        "phrase": "小熊猫宝宝",
+        "emotions": {}
+      }
+    ],
+    "小熊猫宝": [
+      {
+        "kind": "topic",
+        "id": "red_panda",
+        "phrase": "小熊猫宝宝",
+        "emotions": {}
+      }
+    ],
+    "小熊猫举": [
+      {
+        "kind": "topic",
+        "id": "red_panda",
+        "phrase": "小熊猫举手",
+        "emotions": {}
+      }
+    ],
+    "大坏": [
+      {
+        "kind": "topic",
+        "id": "villain",
+        "phrase": "大坏蛋",
+        "emotions": {}
+      }
+    ],
+    "小坏": [
+      {
+        "kind": "topic",
+        "id": "villain",
+        "phrase": "小坏蛋",
+        "emotions": {}
+      }
+    ],
+    "坏家": [
+      {
+        "kind": "topic",
+        "id": "villain",
+        "phrase": "坏家伙",
+        "emotions": {}
+      }
+    ],
+    "小恶": [
+      {
+        "kind": "topic",
+        "id": "villain",
+        "phrase": "小恶魔",
+        "emotions": {}
+      }
+    ],
+    "大恶": [
+      {
+        "kind": "topic",
+        "id": "villain",
+        "phrase": "大恶魔",
+        "emotions": {}
+      }
+    ],
+    "恶作": [
+      {
+        "kind": "topic",
+        "id": "villain",
+        "phrase": "恶作剧",
+        "emotions": {}
+      }
+    ],
+    "小海": [
+      {
+        "kind": "topic",
+        "id": "otter",
+        "phrase": "小海獭",
+        "emotions": {}
+      }
+    ],
+    "海獭": [
+      {
+        "kind": "topic",
+        "id": "otter",
+        "phrase": "海獭宝宝",
+        "emotions": {}
+      }
+    ],
+    "海獭宝": [
+      {
+        "kind": "topic",
+        "id": "otter",
+        "phrase": "海獭宝宝",
+        "emotions": {}
+      }
+    ],
+    "海獭抱": [
+      {
+        "kind": "topic",
+        "id": "otter",
+        "phrase": "海獭抱贝壳",
+        "emotions": {}
+      }
+    ],
+    "海獭抱贝": [
+      {
+        "kind": "topic",
+        "id": "otter",
+        "phrase": "海獭抱贝壳",
+        "emotions": {}
+      }
+    ],
+    "海獭搓": [
+      {
+        "kind": "topic",
+        "id": "otter",
+        "phrase": "海獭搓脸",
         "emotions": {}
       }
     ],

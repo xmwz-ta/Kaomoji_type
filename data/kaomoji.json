@@ -19238,5 +19238,1221 @@
       "anticipation"
     ],
     "intensity": 0.5
+  },
+  {
+    "text": "(๑°⌓°๑)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(｡•́︿•̀｡)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(๑•́ ₃ •̀๑)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(。・ω・。)？",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(๑꒪▿꒪๑)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(〃・◇・〃)",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(・﹏・๑)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(｡ŏ﹏ŏ)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(๑´•д•`๑)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(つ﹏⊂)ゞ",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(๑•́ω•̀๑)？",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(￣▽￣*)ゞ？",
+    "family": "silly",
+    "topics": [
+      "silly"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "confused",
+      "embarrassed",
+      "awkward"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕง≧ᴥ≦ʔง",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕﾉ•ᴥ•ʔﾉ彡",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕつ◕ᴥ◕ʔつ≋",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕ•ﻌ•ʔ≋≋",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕっ˘ᴥ˘ʔっ≋",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕง•ﻌ•ʔง",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕﾉ≧ﻌ≦ʔﾉ",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕ•ᴥ•ʔﾉ≋",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕづ｡ᴥ｡ʔづ≋",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕᵔﻌᵔʔ≋",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕっ•ﻌ•ʔっ",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕﾉ◕ﻌ◕ʔﾉ≋",
+    "family": "red_panda",
+    "topics": [
+      "red_panda"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ψ(｀∇´)ψ",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "Ψ(￣∀￣)Ψ",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(⃔ *`꒳´* )⃕↝",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(⃔ ･ᴗ･ )⃕↝",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ψ(≖ᴗ≖)ψ",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(｀∀´)Ψ",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "Ψ(｀▽´)Ψ",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ψ(๑`▽´๑)ψ",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(⃔ ｡•̀ᴗ•́｡)⃕↝",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(¬ᴗ¬)ψ",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ψ(╰ •̀∀•́ )╯",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(⃔ *`ω´* )⃕↝",
+    "family": "villain",
+    "topics": [
+      "villain"
+    ],
+    "category": "emotion",
+    "emotions": [
+      "smug",
+      "sarcastic",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "≋ʕっ•ᴥ•ʔっ◒≋",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "≋ʕ•ᴥ•ʔ◒≋",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕっ´ᴥ`ʔっ◒",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕつ•ﻌ•ʔつ◒",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "≋ʕ˘ᴥ˘ʔ≋",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕっ˘ᴥ˘ʔっ◒",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "≋ʕᵔᴥᵔʔﾉ≋",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕつ≧ᴥ≦ʔつ◒",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕっ•ᴥ•ʔっ♡◒",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "≋ʕ•ﻌ•ʔ≋",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "ʕづ•ᴥ•ʔづ◒",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "≋ʕつᴥ⊂ʔ≋",
+    "family": "otter",
+    "topics": [
+      "otter"
+    ],
+    "category": "animal",
+    "emotions": [
+      "happy",
+      "relieved",
+      "neutral"
+    ],
+    "intents": [
+      "neutral"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(っ •̀ω•́)っ≡⊃",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(o≧口≦)o))",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(っ`Д´)っ))",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(ง •̀ᴗ•́)ง☆",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(๑•̀д•́)و✧",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(ｏﾟﾛﾟ)┌┛☆",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(っ`ω´)っ≡⊃",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(ง｀▽´)ง",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(๑و•̀ω•́)و☆",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(っ>ω<)っ))",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
+  },
+  {
+    "text": "(ง •̀з•́)ง",
+    "family": "playful_punch",
+    "topics": [
+      "fight"
+    ],
+    "category": "action",
+    "emotions": [
+      "angry",
+      "amused"
+    ],
+    "intents": [
+      "joking"
+    ],
+    "tones": [
+      "informal"
+    ],
+    "tags": [],
+    "intensity": 0.5
   }
 ]

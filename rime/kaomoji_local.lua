@@ -46,8 +46,13 @@ function M.analyze(text)
   end
   for _, topic in ipairs(data.topics) do
     local matched = exact(plain, topic.exact)
+    local searchable = text
+    for _, excluded in ipairs(topic.exclude_phrases or {}) do
+      -- Configured exclusions are literal Chinese words; preserve byte offsets.
+      searchable = searchable:gsub(excluded, string.rep(" ",#excluded))
+    end
     for _, phrase in ipairs(topic.phrases) do
-      local a = contains(text, phrase)
+      local a = contains(searchable, phrase)
       if a and not (topic.kind == "action" and negated(text:sub(1,a-1))) then matched = true end
     end
     if matched then topics[topic.id] = true end

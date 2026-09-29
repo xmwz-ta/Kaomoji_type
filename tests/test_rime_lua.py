@@ -120,3 +120,26 @@ def test_false_positive_and_negation(lua_env):
     assert not engine.analyze('不想睡觉').topics.sleep
     assert 'sleep' not in Analyzer().analyze('不想睡觉').topics
     assert engine.analyze('不生气').emotions.angry < .2
+
+@pytest.mark.parametrize('text,topic', [('笨','silly'),('小笨蛋','silly'),('小熊猫','red_panda'),('红熊猫','red_panda'),('坏蛋','villain'),('小恶魔','villain'),('海獭','otter'),('小海獭','otter'),('打你','fight'),('捶捶你','fight')])
+def test_requested_categories(lua_env,text,topic):
+    lua,*_ = lua_env
+    engine = lua.eval('require("kaomoji_local")')
+    if isinstance(engine,tuple): engine = engine[0]
+    analysis = Analyzer().analyze(text)
+    assert analysis.topics == [topic]
+    assert engine.analyze(text).topics[topic]
+    ranked = Ranker().rank(analysis,36)
+    assert len(ranked) >= 10
+    assert all(topic in row['topics'] for row in ranked)
+    assert len(engine.recommend(text,36)) >= 10
+
+def test_red_panda_does_not_match_panda_or_bear(lua_env):
+    lua,*_ = lua_env
+    engine = lua.eval('require("kaomoji_local")')
+    if isinstance(engine,tuple): engine = engine[0]
+    assert list(engine.analyze('小熊猫').topics.keys()) == ['red_panda']
+    assert set(Analyzer().analyze('小熊猫和大熊猫').topics) == {'red_panda','panda'}
+    assert engine.analyze('小熊猫和大熊猫').topics.panda
+    assert 'fight' not in Analyzer().analyze('不想打你').topics
+    assert not engine.analyze('不想打你').topics.fight

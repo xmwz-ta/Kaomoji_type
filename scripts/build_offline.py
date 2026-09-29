@@ -24,7 +24,7 @@ def build():
     lexicon = read("lexicon.json")
     aliases = dict(cat="猫", dog="狗", rabbit="兔", bear="熊", pig="猪", bird="鸟", fish="鱼", tea="茶", flower="花", money="钱", sleep="睡", eat="吃", run="跑")
     for topic in lexicon["topics"]:
-        topic["exact"] = [aliases[topic["id"]]] if topic["id"] in aliases else []
+        topic["exact"] = list(dict.fromkeys(topic.get("exact", []) + ([aliases[topic["id"]]] if topic["id"] in aliases else [])))
     for phrase, emotion in [("哭", "crying"), ("笑", "amused"), ("酷", "smug"), ("苦", "sad")]:
         lexicon["rules"].append(dict(id="exact_" + emotion, phrases=[phrase], match="exact", emotions={emotion:.9}, intent="neutral"))
     original = read("rules.json")
